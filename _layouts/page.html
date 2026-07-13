@@ -1,0 +1,151 @@
+---
+layout: default
+---
+
+<!-- <head>
+  <link href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css" rel="stylesheet" />
+  <script src="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Turf.js/6.5.0/turf.min.js"></script>
+</head> -->
+
+<!-- Include the core content of your Jekyll Page -->
+{{ content }}
+
+<!-- The Shared Modal Overlay Container (Only shows up when triggered) -->
+<div id="map-modal" class="modal-overlay">
+  <div class="modal-content">
+    <button class="modal-close-btn" onclick="closeMapModal()">&times;</button>
+    <div id="modal-map-window"></div>
+  </div>
+</div>
+
+
+<!-- Unified Leaflet Engine Script -->
+<script>
+
+
+  // Centralized map registry tracking instances across the document
+  let currentModalMap = null;
+
+  function buildVectorMap(containerId, geojsonPath, lineColor = '#d9381e') {
+      const mapStyleUrl = 'https://api.maptiler.com/maps/outdoor-v2/style.json?key=NPlRMxy1uYH9gIiVYt3P';
+
+      return fetch(geojsonPath)
+          .then(response => response.json())
+          .then(geoJsonData => {
+              const bbox = turf.bbox(geoJsonData);
+
+              const mapInstance = new maplibregl.Map({
+                  container: containerId,
+                  style: mapStyleUrl,
+                  bounds: bbox,
+                  fitBoundsOptions: { padding: 80 } // Padded zoom level applied globally
+              });
+
+              mapInstance.addControl(new maplibregl.NavigationControl());
+
+              mapInstance.on('load', () => {
+                  mapInstance.addSource(`src-${containerId}`, {
+                      type: 'geojson',
+                      data: geoJsonData
+                  });
+
+                  mapInstance.addLayer({
+                      id: `lyr-${containerId}`,
+                      type: 'line',
+                      source: `src-${containerId}`,
+                      paint: {
+                          'line-color': lineColor,
+                          'line-width': 4
+                      }
+                  });
+              });
+
+              return mapInstance; // Returns the initialized object for further actions if needed
+          })
+          .catch(err => console.error(`Map instantiation error on [${containerId}]:`, err));
+  }
+
+  // 2. Streamlined Modal Core Handlers
+  function openMapModal(trailPath) {
+      const modal = document.getElementById('map-modal');
+      const mapWindow = document.getElementById('modal-map-window');
+
+      modal.classList.add('is-active');
+
+      if (currentModalMap) {
+          currentModalMap.remove();
+          currentModalMap = null;
+      }
+      mapWindow.innerHTML = '';
+
+      // Route directly through the centralized builder function
+      buildVectorMap('modal-map-window', trailPath, '#0080ff').then(map => {
+          currentModalMap = map;
+
+          // Handle resizing once the modal's active CSS transition completes
+          setTimeout(() => {
+              if (currentModalMap) currentModalMap.resize();
+          }, 250);
+      });
+  }
+
+  function closeMapModal() {
+      const modal = document.getElementById('map-modal');
+      modal.classList.remove('is-active');
+
+      if (currentModalMap) {
+          currentModalMap.remove();
+          currentModalMap = null;
+      }
+  }
+
+  // Bind event listeners to emoji map triggers
+  document.querySelectorAll('.map-trigger').forEach(trigger => {
+      trigger.addEventListener('click', function(e) {
+          e.preventDefault();
+          const trailPath = this.getAttribute('data-trail-path');
+          if (trailPath) openMapModal(trailPath);
+      });
+  });
+
+</script>
+
+<!-- Integrated Styling Layout -->
+<style>
+  /* 1. Static Embedded Map Style */
+  .hiking-map-container {
+    width: 100%;
+    height: 300px;
+    margin: 20px 0;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    z-index: 10;
+    box-sizing: border-box;
+  }
+
+  /* 2. Lightbox Pop-up Overlay Style */
+  .modal-overlay {
+    display: none;
+    position: fixed;
+    top: 0; left: 0; width: 100%; height: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+    z-index: 9999;
+    justify-content: center; align-items: center;
+  }
+  .modal-content {
+    background: #fff; padding: 15px; border-radius: 12px;
+    width: 85%; max-width: 800px; height: 75%; max-height: 550px;
+    position: relative; box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+  }
+  #modal-map-window { width: 100%; height: 100%; border-radius: 6px; border: 1px solid #ddd; }
+  .modal-close-btn { position: absolute; top: -40px; right: 0; background: none; border: none; color: white; font-size: 32px; cursor: pointer; }
+  .map-trigger {cursor: pointer; text-decoration: none;}
+}
+</style>
+
+<link href="{{ '/assets/css/style.css' | relative_url }}" rel="stylesheet"  />
+<link href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css" rel="stylesheet" />
+<script src="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Turf.js/6.5.0/turf.min.js"></script>

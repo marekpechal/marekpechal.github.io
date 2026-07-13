@@ -1,0 +1,150 @@
+---
+---
+
+.site-header {
+  position: sticky;     /* Keeps the element in flow but locks it to the viewport */
+  top: 0;               /* Pins it exactly to the top of the browser window */
+  z-index: 999;         /* Ensures it stays on top of text, images, and backgrounds */
+  background-color: #fff; /* Crucial: stops underlying content from bleeding through */
+}
+
+/* Outer Parent Grid Layout */
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-gap: 15px;
+  margin: 20px 0;
+}
+
+/* Individual Grid Item Box */
+.gallery-item {
+  display: flex;
+  flex-direction: column;
+}
+
+/* The Link Wrapper (Contains ONLY the image) */
+.image-link {
+  display: block;
+  overflow: hidden;         /* Essential: keeps zoomed image inside rounded corners */
+  border-radius: 8px;       /* Rounded corners applied ONLY here */
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  transition: transform 0.2s ease; /* Controls the zoom speed */
+  width: 100%;
+  height: 100%;
+}
+
+/* Zoom Effect applied exclusively on link hover */
+.image-link:hover {
+  transform: scale(1.02);   /* Zooms only the image box, tags do not move */
+}
+
+/* Image Formatting */
+.image-link img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+/* Tags Styling Section (Stays static under the image link) */
+.tag-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 10px;        /* Gap between rounded image box and text tags */
+  padding: 0 2px;
+}
+
+.tag-bar {
+  display: inline-block;
+  padding: 4px 10px;
+  font-size: 0.6rem;
+  font-weight: 600;
+  color: #ffffff;
+  background-color: #ff5a5f;
+  border-radius: 12px;
+}
+
+.tag-bar.thirdparty { background-color: #3498db; }
+
+/* Make the trigger tag look interactive */
+.tag-trigger {
+  cursor: pointer;
+  display: inline-block;
+  padding: 4px 10px;
+  font-size: 0.6rem;
+  font-weight: 600;
+  color: #ffffff;
+  background-color: #3498db;
+  border-radius: 12px;
+  transition: background-color 0.2s;
+}
+
+.tag-trigger:hover {
+  background-color: #c7d2fe;
+}
+
+/* Modal Hidden State */
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+
+  /* Use display: none as the base state to guarantee it stays invisible */
+  display: none;
+  justify-content: center;
+  align-items: center;
+  opacity: 0;
+  z-index: 1000;
+}
+
+/* When active, switch display to flex and fade it in */
+.modal-overlay.is-active {
+  display: flex !important; /* Overrides the inline style layer */
+  opacity: 1;
+  pointer-events: auto;
+}
+
+/* Modal Content Box */
+.modal-content {
+  background-color: #fff;
+  padding: 24px;
+  border-radius: 8px;
+  width: 90%;
+  max-width: 450px;
+  position: relative;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+  font-family: sans-serif;
+}
+
+/* Close Button */
+.modal-close {
+  position: absolute;
+  top: 12px;
+  right: 16px;
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+  color: #666;
+}
+
+/* Attribution formatting inside modal */
+.attribution-list {
+  list-style: none;
+  padding: 0;
+  margin: 16px 0 0 0;
+}
+
+.attribution-list li {
+  line-height: 1.6;
+  font-size: 0.9rem;
+}
+
+.attribution-list a {
+  color: #4f46e5;
+  text-decoration: underline;
+}

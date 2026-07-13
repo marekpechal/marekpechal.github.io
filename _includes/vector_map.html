@@ -1,0 +1,16 @@
+<div class="map-frame-wrapper" style="border-radius: 12px; overflow: hidden; margin-bottom: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <div id="map-{{ include.id }}" style="width: 100%; height: {{ include.height | default: '350px' }};"></div>
+</div>
+
+<script>
+(function() {
+    // Force the execution to wait until page.html finishes parsing the layout scripts
+    document.addEventListener('DOMContentLoaded', function() {
+        buildVectorMap(
+            'map-{{ include.id }}',
+            '{{ include.file }}',
+            '{{ include.color | default: "#d9381e" }}'
+        );
+    });
+})();
+</script>

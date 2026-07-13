@@ -1,0 +1,1090 @@
+routes:
+  - heading_en: To the German border
+    heading_cz: K německé hranici
+    length: 65.7
+    places:
+    - name: Zurich
+    - name: Otelfingen
+    - name: Kaiserstuhl
+    - name: Rheinau
+    description_en: Starting off via Höngg to the Furttal, then crossing Lägern and Wehntal to enter Eggwald and reach the Rhine and the German border at Kaiserstuhl. Afterwards, following the Rhine upstream, cutting across the bend at Buchberg, crossing back to the left bank and continuing there to Rheinau.
+    description_cz: Vyrážím přes Höngg do údolí Furttal, pak přes horský hřeben Lägern a údolí Wehntal do lesa Eggwald. Dostávám se k Rýnu a německé hranici v Kaiserstuhlu. Pak pokračuji proti proudu Rýna, zkracuji si to přes záhyb řeky u Buchbergu, přecházím zpět na levý břeh a tam pokračuji do Rheinau.
+    map_filename: map_route_D
+  - heading_en: To the Italian border
+    heading_cz: K italské hranici
+    length: 175.6
+    places:
+    - name: Zurich
+    - name: Egg
+    - name: Pfaffikon
+    - name: Biberbrugg
+    - name: Sattel
+    - name: Brunnen
+    - name: Altdorf
+    - name: Wassen
+    - name: Realp
+    - name: Oberwald
+    description_en: In the direction of Greifensee, via Egg and Hombrechtikon to the southern tip of lake Zurich at Rapperswil. Then crossing the dam between it and Obersee to Pfäffikon and continuing up to the Etzel summit and to Biberbrugg. Continuing past the raised bog Rothenturm to Sattel, then downhill to Seewen and passing Schwyz towards Brunnen. Afterwards along the eastern shore of Urnersee to Altdorf and upstream along the Reuss to Wassen, Göschenen and Andermatt. Then westwards along the valley to Realp and over the Furka pass to Oberwald in the Rhone valley.
+    description_cz: Směrem ke Greifensee, přes Egg a Hombrechtikon k jižnímu cípu Curyšského jezera v Rapperswilu. Pak přes hráz mezi ním a jezerem Obersee do Pfäffikonu a pokračuji na vrchol Etzelu a do Biberbruggu. Kolem vrchoviště Rothenturm do Sattelu, pak z kopce dolů do Seewenu a kolem Schwyzu do Brunnenu. Pak po východním břehu jezera Urnersee do Altdorfu a proti proudu řeky Reuss do Wassenu, Göschenenu a Andermattu. Potom na západ údolím do Realpu a přes průsmyk Furka do Oberwaldu v údolí Rhôny.
+    map_filename: map_route_I
+  - heading_en: To the Emme valley (Emmental)
+    heading_cz: Do údolí řeky Emme (Emmental)
+    length: 87.0
+    places:
+    - name: Zurich
+    - name: Birmensdorf
+    - name: Affoltern am Albis
+    - name: Cham
+    - name: Ebikon
+    - name: Wolhusen
+    description_en: Around Uetliberg from the North via Birmensdorf, then southward via Bonstetten to Affoltern am Albis and further towards the Lorze and following it to Cham at lake Zug. Hugging the lake for a bit, then turning South-West to Meierskappel and following the ridge before descending to Ebikon in the Reuss valley. Passing through the urban area around Emmen to continue upstream along the Kleine Emme to Werthenstein and Wolhusen.
+    description_cz: Kolem Uetlibergu ze severu přes Birmensdorf, pak na jih přes Bonstetten do Affolternu am Albis a dál k řece Lorze a podél ní do města Cham u Zugského jezera. Nejdříve chvíli jdu podél břehu jezera, pak se obracím na jihozápad do vesnice Meierskappel a po hřebeni, než pak sejdu do Ebikonu v údolí řeky Reuss. Procházím zastavěným územím kolem města Emmen a pokračuji proti proudu řeky Kleine Emme do Werthensteinu a Wolhusenu.
+    map_filename: map_route_Emme
+  - heading_en: To the French border
+    heading_cz: K francouzské hranici
+    length: 162.3
+    places:
+    - name: Zurich
+    - name: Reppischhof
+    - name: Wohlen
+    - name: Aarau
+    - name: Gelterkinden
+    - name: Gempen
+    - name: Flüh
+    - name: Laufen
+    - name: Delemont
+    description_en: Crossing the Limmat valley to Schlieren, Rudolfstetten and Bremgarten, then over the forested hills west of the town to Wohlen, around the hill Eichberg to Seon, then over another ridge to Suhr and Aarau. Crossing the Aare and up to Schafmatt pass, then down the northern slopes to Rothenfluh and following the valley to Gelterkinden. A detour via the hills to the north to Lausen and Liestal, then leaving the valley up to Nuglar and Gempen. Then down again to the Birs valley and to the French border at Flüh. Turning South-West to Metzerlen and then South over the Challpass to Laufen. Crossing the Birs once again, up to Karlisberg and then following the ridge westward before descending to Delemont.
+    description_cz: Přecházím údolí Limmatu do Schlierenu, Rudolfstettenu a Bremgartenu, pak přes zalesněné kopce na západ od města do Wohlenu, kolem kopce Eichbergu do Seonu, pak přes další hřeben do Suhru a Aarau. Přecházím Aare a jdu nahoru do průsmyku Schafmatt, pak dolů po severních svazích do Rothenfluhu a údolím do Gelterkindenu. Zacházkou přes kopce na sever do Lausenu a Liestalu, pak opouštím údolí a jdu nahoru do vesnic Nuglar a Gempen. Poté opět dolů do údolí řeky Birs a k francouzským hranicím ve vsi Flüh. Stáčím se na severozápad do Metzerlenu a pak na jih přes průsmyk Challpass do Laufenu. Tam znovu přecházím přes Birs, nahoru na Karlisberg a po hřebeni na západ než sestoupím do Delemontu.
+    map_filename: map_route_F
+  - heading_en: To Liechtenstein and the Austrian border
+    heading_cz: Do Lichtenštejnska a k rakouské hranici
+    length: 219.5
+    places:
+    - name: Rapperswil
+    - name: Wattwil
+    - name: Urnäsch
+    - name: Appenzell
+    - name: Rüthi
+    - name: Sevelen
+    - name: Maienfeld
+    - name: Chur
+    - name: Langwies
+    - name: Arosa
+    - name: Filisur
+    description_en: Starting from Rapperswil following Via Jacobi to St. Gallenkappel and along the slopes of Tweralpspitz to Wattwil, then up the opposite side of the Thur valley to Sankt Peterzell. Then leaving Via Jacobi at Chäseren, crossing the Tüfenbach valley and following Appenzeller Weg over the hills to Urnäsch. Up to Spitzli and along the ridge to Kronberg and Scheidegg, then down to Appenzell. From here over the hill and down to the Rhine valley at Rüthi. Then following the Rhine upstream to the outskirts of Vaduz, Sevelen, Balzers and through the valley between Guschaspitz and Gir to Maienfeld. Through Malanz, Zizers and following the Rhine to Chur. Then along the southern slopes of the Plessur valley via Passugg and Tschiertschen to Langwies. Afterwards up to Arosa and further towards Valbella Furgga but turning back at Alteinsee due to snow and ending up in Arosa. Next time I set off up the Welschtobel valley over the Furcletta pass into the valley of the Albula river.
+    description_cz: Vyrážím z Rapperswilu po stezce Via Jacobi do St. Gallenkappel a po úbočí hory Tweralpspitz do Wattwilu, pak nahoru opačným svahem údolí řeky Thur do Sankt Peterzellu. V Chäseren opouštím Via Jacobi a přecházím údolí Tüfenbachu a po stezce Apenzeller Weg jdu přes kopce do vesnice Urnäsch. Na horu Spitzli a po hřebeni na Kronberg, Scheidegg a pak dolů do Appenzellu. Odtud přes kopec a dolů do údolí Rýna u vesnice Rüthi. Pak jdu proti směru Rýna, přes předměstí Vaduzu, přes Sevelen a Balzers a údolím mezi vrcholy Guschaspitz a Gir do Maienfeldu. Přes města Malanz, Zizers a podél Rýna do Churu. Pak jdu po jižních svazích údolí řeky Plessur přes Passugg a Tschiertschen do Langwiesu. Dále nahoru do Arosy a k průsmyku Valbella Furgga, ale u jezera Alteinsee se musím otočit kvůli sněhu a končím zpátky v Arose. Příště pak vyrážím údolím Welschtobel přes průsmyk Furcletta do údolí řeky Albula.
+    map_filename: map_route_FL_A
+  - heading_en: To Sarnersee
+    heading_cz: K jezeru Sarnersee
+    length: 121.1
+    places:
+    - name: Zurich
+    - name: Adliswil
+    - name: Sihlwald
+    - name: Baar
+    - name: Walchwil
+    - name: Goldau
+    - name: Luzern
+    - name: Sarnen
+    description_en: Leaving Zurich along the Sihl valley, then crossing over Albishorn to Baar. From there following the Lorze upstream and crossing over the hills from Neuägeri back towards lake Zug. Walking around the southern end of the lake with a detour over the Gnipen summit and Goldau. Following the slopes of Rigi to Seebodenalp and then down to lake Luzern at Küssnacht. From there, along the ridge above the lake to the city of Luzern. Southwards between Pilatus and the lake, over Ränggpass to the Sarneraa valley.
+    description_cz: Vyrážím z Curychu údolím Sihlu, pak přes Albishorn do Baaru. Odtud pak proti proudu řeky Lorze přes kopce z Neuägeri zpátky k Zugskému jezeru. Obcházím jižní cíp jezera se zacházkou přes vrchol Gnipen a město Goldau. Po úbočí Rigi na Seebodenalp a pak dolů k Lucernskému jezeru v Küssnachtu. Odtud pak podél horského hřbetu nad jezerem do Lucernu. Na jih mezi horou Pilatus a jezerem, přes Ränggpass do údolí řeky Sarneraa.
+    map_filename: map_route_Sarnersee
+
+hikes:
+  - date: "03 Feb 2024"
+    length: 18.4
+    elevation_gain: 294
+    elevation_loss: 342
+    from: Zurich
+    to: Otelfingen
+    images: []
+  - date: "10 Feb 2024"
+    length: 20.6
+    elevation_gain: 533
+    elevation_loss: 463
+    from: Zurich
+    to: Egg
+    images: []
+  - date: "17 Feb 2024"
+    length: 24.2
+    elevation_gain: 635
+    elevation_loss: 781
+    from: Egg
+    to: Pfaffikon
+    images: []
+  - date: "09 Mar 2024"
+    length: 13.5
+    elevation_gain: 844
+    elevation_loss: 424
+    from: Pfaffikon
+    to: Biberbrugg
+    images:
+    - click_url: https://flic.kr/p/2skYuQd
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55360005196_f6535e23b0_b.jpg
+      row_span: 1
+      description_en: View from the eastern slopes of Etzel towards Obersee.
+      description_cz: Výhled z východního úbočí Etzelu na Obersee.
+    - click_url: https://flic.kr/p/2skYuPr
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55360005151_a88ee77126_b.jpg
+      row_span: 1
+      description_en: View from the western slopes of Etzel towards Zürichsee. The city of Zurich is visible at the far end of the lake.
+      description_cz: Výhled ze západního úbočí Etzelu na Curyšské jezero. Curych je vidět na vzdáleném konci jezera.
+  - date: "16 Mar 2024"
+    length: 20.0
+    elevation_gain: 1038
+    elevation_loss: 1085
+    from: Otelfingen
+    to: Kaiserstuhl
+    images:
+    - click_url: https://flic.kr/p/2sm1Eim
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55360427270_3bb3b1690a_k.jpg
+      row_span: 1
+      description_en: View from a bridge over the Rhine in Kaiserstuhl, looking upstream. From here it is about 35 km to the Rhine Falls and about 65 km to Bodensee (Lake Constance).
+      description_cz: Výhled z mostu proti proudu Rýna v Kaiserstuhlu. Odtud je to asi 35 km k Rýnským vodopádům a asi 65 km k Bodamskému jezeru.
+    - click_url: https://flic.kr/p/2skTHXM
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55359073807_cde239f0f1_b.jpg
+      row_span: 1
+      description_en: Germany on the other side of the bridge.
+      description_cz: Německo na protější straně mostu.
+  - date: "24 Mar 2024"
+    length: 14.2
+    elevation_gain: 551
+    elevation_loss: 601
+    from: Biberbrugg
+    to: Sattel
+    images: []
+  - date: "27 Apr 2024"
+    length: 12.4
+    elevation_gain: 250
+    elevation_loss: 236
+    from: Zurich
+    to: Birmensdorf
+    images: []
+  - date: "04 May 2024"
+    length: 13.2
+    elevation_gain: 197
+    elevation_loss: 180
+    from: Birmensdorf
+    to: Affoltern am Albis
+    images: []
+  - date: "18 May 2024"
+    length: 14.6
+    elevation_gain: 71
+    elevation_loss: 153
+    from: Affoltern am Albis
+    to: Cham
+    images:
+    - click_url: https://flic.kr/p/2skYuNE
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55360005106_eab0dc4fdd_b.jpg
+      row_span: 1
+      description_en: Preparation for (or the aftermath of?) some kind of rowing event in Cham at Zugersee (Lake Zug). The tallest peak behind the lake is Rigi - a mountain whose summit can be reached by a cogwheel railway.
+      description_cz: Přípravy na nějakou veslařskou akci (nebo úklid po ní?) ve městě Cham na Zugském jezeře. Nejvyšší vrchol za jezerem je Rigi - hora, na kterou se dá dostat zubačkovou dráhou.
+  - date: "25 May 2024"
+    length: 21.2
+    elevation_gain: 576
+    elevation_loss: 574
+    from: Cham
+    to: Ebikon
+    images:
+    - click_url: https://flic.kr/p/2skPVGM
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55358332857_fb6915f993_b.jpg
+      row_span: 1
+      description_en: Rigi seen from the North. On the left is Zugersee, on the right Vierwaldstättersee (Lake Luzern).
+      description_cz: Rigi v pohledu ze severu. Vlevo je Zugské jezero, vpravo Lucernské jezero.
+    - click_url: https://flic.kr/p/2skVJvZ
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55359465899_58e3146f5f_b.jpg
+      row_span: 1
+      description_en: An orchard above the Reuss valley.
+      description_cz: Sad nad údolím řeky Reuss.
+  - date: "05 Apr 2025"
+    length: 15.0
+    elevation_gain: 160
+    elevation_loss: 510
+    from: Sattel
+    to: Brunnen
+    images:
+    - click_url: https://flic.kr/p/2skUGxp
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55359264141_9eef2e7dda_b.jpg
+      row_span: 1
+      description_en: The interestingly named "Ecce Homo" hamlet on the way from Sattel down towards Schwyz. It takes its name from the local chapel and that in turn from a devotional image located there.
+      description_cz: Osada se zajímavým názvem "Ecce Homo" na cestě ze Sattelu dolů do Schwyzu. Je pojmenována po místní kapli a ta zase po v ní umístěném devočním obrazu.
+    - click_url: https://flic.kr/p/2skVJvD
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55359465879_06335945d2_b.jpg
+      row_span: 1
+      description_en: Dandelions on the way down to Steinen. On the left is Lauerzersee, on the right, peaking above the nearby slope, is Rigi.
+      description_cz: Pampelišky po cestě dolů do města Steinen. Vlevo je vidět jezero Lauerzersee, vpravo vykukuje zpoza bližšího svahu hora Rigi.
+  - date: "26 Apr 2025"
+    length: 20.0
+    elevation_gain: 638
+    elevation_loss: 630
+    from: Brunnen
+    to: Altdorf
+    images:
+    - click_url: https://flic.kr/p/2skWRKN
+      col_span: 2
+      image_url: https://live.staticflickr.com/65535/55359685360_60a2ab719f_h.jpg
+      row_span: 1
+      description_en: Panoramic view over lake Luzern (Vierwaldstättersee) near Brunnen. On the opposite side, we see Schiller's monument. On the left is the Urnersee section of the lake.
+      description_cz: Panorama Lucernského jezera (Vierwaldstättersee) poblíž města Brunnen. Na protějším břehu vidíme Schillerův památník. Vlevo je část jezera zvaná Urnersee.
+    - click_url: https://flic.kr/p/2skVJuB
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55359465819_0cb25782cd_b.jpg
+      row_span: 1
+      description_en: The Lourdes Grotte Ingenbohl.
+      description_cz: Lurdské grotto v Ingenbohlu.
+    - click_url: https://flic.kr/p/2skVx6Z
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55359427503_50f6b0bed1_z.jpg
+      row_span: 2
+      description_en: A self-service farm stand (Hofladen) above lake Luzern.
+      description_cz: Farmářský samoobslužný obchůdek (Hofladen) nad Lucernským jezerem.
+    - click_url: https://flic.kr/p/2skVJu6
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55359465789_fcaccbb015_b.jpg
+      row_span: 1
+      description_en: Path down to Sisikon on the shore of Urnersee.
+      description_cz: Cesta dolů do Sisikonu na břehu jezera Urnersee.
+    - click_url: https://flic.kr/p/2skVx8T
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55359427613_81e5a25435_z.jpg
+      row_span: 2
+      description_en: Glockenspiel close to Tellskapelle (Tell's chapel).
+      description_cz: Zvonkohra poblíž Tellskapelle (Tellovy kaple).
+    - click_url: https://flic.kr/p/2skWRGm
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55359685160_6ae4aeb522_b.jpg
+      row_span: 1
+      description_en: Path along the cliffs on the eastern shore of Urnersee. In the distance is the valley of the Reuss and the snow-covered peak of Bristen.
+      description_cz: Cesta podél útesů na východním břehu jezera Urnersee. V dálce je údolí řeky Reuss a zasněžený vrchol hory Bristen.
+    - click_url: https://flic.kr/p/2skWRET
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55359685075_0748da28b5_b.jpg
+      row_span: 1
+      description_en: Close to the southern end of the lake, the path (serving both pedestrians and bicycles) passes through tunnels and galleries.
+      description_cz: V blízkosti jižního konce jezera stezka (pro pěší i cyklisty) vede tunely a galeriemi.
+  - date: "01 May 2025"
+    length: 25.6
+    elevation_gain: 303
+    elevation_loss: 157
+    from: Ebikon
+    to: Wolhusen
+    images:
+    - click_url: https://flic.kr/p/2skVrzK
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55359408929_0d56ae0080_b.jpg
+      row_span: 1
+      description_en: Not a huge amount of water in the river Kleine Emme.
+      description_cz: V řece Kleine Emme není zrovna moc vody.
+    - click_url: https://flic.kr/p/2skPCD3
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55358275452_cf81d4e264_b.jpg
+      row_span: 1
+      description_en: A railway bridge East of Werthenstein.
+      description_cz: Železniční most východně od vesnice Werthenstein.
+    - click_url: https://flic.kr/p/2skWyXK
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55359628865_e8ce115c6e_b.jpg
+      row_span: 1
+      description_en: Covered wooden bridge over Kleine Emme.
+      description_cz: Krytý dřevěný most přes Kleine Emme.
+    - click_url: https://flic.kr/p/2skPCCM
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55358275437_ff8026ac26_z.jpg
+      row_span: 2
+      description_en: A meadow in bloom between Werthenstein and Wolhusen.
+      description_cz: Rozkvetlá louka mezi Werthensteinem a Wolhusenem.
+  - date: "10 May 2025"
+    length: 10.4
+    elevation_gain: 222
+    elevation_loss: 284
+    from: Zurich
+    to: Reppischhof
+    images: []
+  - date: "17 May 2025"
+    length: 16.5
+    elevation_gain: 234
+    elevation_loss: 244
+    from: Reppischhof
+    to: Wohlen
+    id: Reppischhof_Wohlen
+    images:
+    - click_url: https://flic.kr/p/2skVfik
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55359370973_8bf1b43223_b.jpg
+      row_span: 1
+      description_en: Covered wooden Bridge over the Reuss in Bremgarten.
+      description_cz: Krytý dřevěný most přes řeku Reuss ve městě Bremgarten.
+    - click_url: https://flic.kr/p/2skUpA8
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55359207111_f770ebd984_k.jpg
+      row_span: 2
+      description_en: Wooden statue in a forest between Bremgarten and Wohlen.
+      description_cz: Dřevěná socha v lese mezi městy Bremgarten a Wohlen.
+  - date: "24 May 2025"
+    length: 24.9
+    elevation_gain: 466
+    elevation_loss: 502
+    from: Wohlen
+    to: Aarau
+    images: []
+  - date: "29 May 2025"
+    length: 27.1
+    elevation_gain: 761
+    elevation_loss: 551
+    from: Rapperswil
+    to: Wattwil
+    images:
+    - click_url: https://flic.kr/p/2sktAw2
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55354366077_aaaf71c766_b.jpg
+      row_span: 1
+      description_en: Lake Zurich seen in the distance from a path above the village of Rüeterswil.
+      description_cz: Pohled na Curyšské jezero v dálce z cesty nad vesnicí Rüeterswil.
+    - click_url: https://flic.kr/p/2skAzKS
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55355729300_085b55a4f5_b.jpg
+      row_span: 1
+      description_en: Looking back from near the highest point of the hike, just before the descent to Wattwil.
+      description_cz: Ohlédnutí zpět poblíž nejvyššího bodu túry, těsně před sestupem do Wattwilu.
+    - click_url: https://flic.kr/p/2sktAva
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55354366027_f60e64b415_k.jpg
+      row_span: 2
+      description_en: Wattwil - the end point of today's hike - is in sight.
+      description_cz: Wattwil - cíl dnešní túry - je na dohled.
+    - click_url: https://flic.kr/p/2skzscM
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55355508779_7178568b55_k.jpg
+      row_span: 2
+      description_en: It's getting late - the side valleys are already in the shade.
+      description_cz: Připozdívá se - postranní údolí už jsou ve stínu.
+  - date: "08 Jun 2025"
+    length: 22.0
+    elevation_gain: 1017
+    elevation_loss: 813
+    from: Wattwil
+    to: Urnäsch
+    images:
+    - click_url: https://flic.kr/p/2skyfCZ
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55355274761_f1fa5dd1da_b.jpg
+      row_span: 1
+      description_en: A lot of awards won by this farmer's cows. Maybe thanks to the milking robot VMS V310 that works here according to the sign :).
+      description_cz: Plno ocenění pro krávy tohoto farmáře. Možná díky dojícímu robotu VMS V310, který tady podle cedule pracuje :).
+    - click_url: https://flic.kr/p/2skzhwK
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55355476239_c3dab13a89_b.jpg
+      row_span: 1
+      description_en: Stylishly coiffed horse living in the hills above Sankt Peterzell.
+      description_cz: Kůň s elegantním účesem v kopcích nad Sankt Peterzellem.
+    - click_url: https://flic.kr/p/2skzhvY
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55355476194_a2f2991ec1_z.jpg
+      row_span: 2
+      description_en: Nicely decorated house in Sankt Peterzell.
+      description_cz: Pěkně zdobený dům v Sankt Peterzellu.
+    - click_url: https://flic.kr/p/2skz4VS
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55355433848_1f31405e99_b.jpg
+      row_span: 1
+      description_en: Walking over the hills above Urnäsch in the late afternoon.
+      description_cz: Pozdně odpolední přechod přes kopce nad vesnicí Urnäsch.
+    - click_url: https://flic.kr/p/2skzhvc
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55355476149_960c8fdc15_h.jpg
+      row_span: 1
+      description_en: Waiting for a train home in Urnäsch.
+      description_cz: Čekání na vlak domů ve vesnici Urnäsch.
+  - date: "13 Jul 2025"
+    length: 19.4
+    elevation_gain: 1089
+    elevation_loss: 1132
+    from: Urnäsch
+    to: Appenzell
+    images:
+    - click_url: https://flic.kr/p/2skzhtP
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55355476069_86108eb8c7_b.jpg
+      row_span: 1
+      description_en: Ascent to the top of Spitzli from Urnäsch.
+      description_cz: Výstup na vrchol Spitzli z vesnice Urnäsch.
+    - click_url: https://flic.kr/p/2sktqAA
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55354332702_fb560fa30d_b.jpg
+      row_span: 1
+      description_en: A cross marking the summit of Spitzli.
+      description_cz: Kříž značící vrchol Spitzli.
+    - click_url: https://flic.kr/p/2skApSf
+      col_span: 2
+      image_url: https://live.staticflickr.com/65535/55355696030_a3f6b502c6_k.jpg
+      row_span: 1
+      description_en: Panoramic view towards the North from Spitzli. We see Urnäsch in the valley below and Kronberg on the right.
+      description_cz: Panorama ze Spitzli v severním směru. Dole v údolí vidíme Urnäsch a napravo vrchol Kronberg.
+    - click_url: https://flic.kr/p/2sktqJG
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55354333172_49b6d00e34_b.jpg
+      row_span: 1
+      description_en: View of Säntis partially hiding in the cloud from the ridge between Spitzli and Kronberg.
+      description_cz: Pohled na Säntis částečně skrytý v mracích z hřebenu mezi Spitzli a Kronbergem.
+    - click_url: https://flic.kr/p/2skApQB
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55355695935_3685abaa04_b.jpg
+      row_span: 1
+      description_en: View to the North from the ridge East of Kronberg. Lake Constance at the border with Germany is visible in the far distance.
+      description_cz: Pohled na sever z hřebenu na východ od Kronergu. Bodamské jezero na hranicích s Německem je vidět v dálce.
+    - click_url: https://flic.kr/p/2skz4Rd
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55355433578_04f136037c_b.jpg
+      row_span: 1
+      description_en: Goats enjoying the great view on the path from Kronberg.
+      description_cz: Kozy si užívají skvělý výhled na stezce vedoucí z Kronbergu.
+    - click_url: https://flic.kr/p/2skz4R8
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55355433573_bc189f9f28_k.jpg
+      row_span: 1
+      description_en: I'll be home very late anyway, so no harm in stopping at Scheidegg for dinner - Kalbsbratwurst with onion sauce and fries.
+      description_cz: Stejně budu doma hodně pozdě, tak už neuškodí zastavit se v Scheideggu na večeři - Kalbsbratwurst s cibulovou omáčkou a hranolky.
+  - date: "23 Aug 2025"
+    length: 21.9
+    elevation_gain: 283
+    elevation_loss: 635
+    from: Appenzell
+    to: Rüthi
+    images:
+    - click_url: https://flic.kr/p/2skApNT
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55355695835_ce22cea97d_b.jpg
+      row_span: 1
+      description_en: Descending into the Rhine valley via the saddle between Golterberg and Fähnerenspitz.
+      description_cz: Sestup do údolí Rýna přes sedlo mezi vrcholy Golterberg a Fähnerenspitz.
+    - click_url: https://flic.kr/p/2skz4Qw
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55355433538_db315a9a11_k.jpg
+      row_span: 1
+      description_en: The Austrian border on a bridge over the Rhine between Lienz and Bangs.
+      description_cz: Rakouská hranice na mostě přes Rýn mezi vesnicemi Lienz a Bangs.
+  - date: "30 Aug 2025"
+    length: 27.2
+    elevation_gain: 805
+    elevation_loss: 334
+    from: Altdorf
+    to: Wassen
+    images:
+    - click_url: https://flic.kr/p/2skyfvV
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55355274351_7669ba574b_b.jpg
+      row_span: 1
+      description_en: Western slopes of the Reuss valley between Altdorf and Erstfeld.
+      description_cz: Západní svahy údolí řeky Reuss mezi Altdorfem a Erstfeldem.
+    - click_url: https://flic.kr/p/2skz4NY
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55355433448_11d0442209_b.jpg
+      row_span: 1
+      description_en: Jagdmatt pilgrimage chapel in Erstfeld.
+      description_cz: Poutní kaple Jagdmatt v Erstfeldu.
+    - click_url: https://flic.kr/p/2skyftF
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55355274221_415d7e4636_b.jpg
+      row_span: 1
+      description_en: Meierturm tower in Silenen.
+      description_cz: Věž Meierturm ve vesnici Silenen.
+    - click_url: https://flic.kr/p/2skz4Mq
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55355433358_06f9a536db_b.jpg
+      row_span: 1
+      description_en: Walking up from Amsteg. I still find it unbelievable that even in these steep slopes, the Swiss keep a perfectly mown lawn.
+      description_cz: Výstup nahoru z Amstegu. Stále mi přijde neuvěřitelné, že Švýcaři i v takto strmém svahu udržují dokonale posekaný trávník.
+    - click_url: https://flic.kr/p/2skApJz
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55355695585_6cbebd8482_b.jpg
+      row_span: 1
+      description_en: A pedestrian suspension bridge over the Reuss below Gurtnellen. In the background is the A2 highway leading to the Gotthard tunnel.
+      description_cz: Visutý most pro pěší přes řeku Reuss pod vesnicí Gurtnellen. V pozadí je dálnice A2 vedoucí ke Gotthardskému tunelu.
+    - click_url: https://flic.kr/p/2sktqzi
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55354332627_19a81e9abe_z.jpg
+      row_span: 2
+      description_en: It is getting late. Looking down the Reuss valley, last rays of daylight illuminate the clouds above Chli Windgällen.
+      description_cz: Připozdívá se. V pohledu dolů údolím řeky Reuss poslední denní paprsky ozařují mraky nad horou Chli Windgällen.
+  - date: "06 Sep 2025"
+    length: 19.9
+    elevation_gain: 826
+    elevation_loss: 201
+    from: Wassen
+    to: Realp
+    images:
+    - click_url: https://flic.kr/p/2skqWPo
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55353849028_c50c77c488_b.jpg
+      row_span: 1
+      description_en: The Reuss flowing through the <a href="https://en.wikipedia.org/wiki/Sch%C3%B6llenen_Gorge" target="_blank">Schöllenen gorge</a> below Andermatt, spanned by the old Devil's bridge and the new road bridge.
+      description_cz: Řeka Reuss tekoucí soutěskou <a href="https://cs.wikipedia.org/wiki/Sch%C3%B6llenen" target="_blank">Schöllenen</a> pod Andermattem, překlenutou Ďáblovým mostem a novým silničním mostem.
+    - click_url: https://flic.kr/p/2skkkRm
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55352755842_0d96ab487e_k.jpg
+      row_span: 2
+      description_en: View of the Devil's bridge and the road bridge from under one of the arches of the cogwheel railway bridge. Part of the Swiss defense strategy in the 20th century were plans to demolish these bridges in the event of invasion to deny the enemy access to the high alpine valleys which were to become the main defensive stronghold.
+      description_cz: Pohled na Ďáblův most a silniční most zpod jednoho z oblouků mostu zubačkové dráhy. Částí švýcarské obranné strategie ve dvacátém století byly plány zdemolovat tyto mosty v případě invaze a tak znemožnit nepříteli přístup do alpských údolí, která se měla stát hlavní obrannou pevností.
+    - click_url: https://flic.kr/p/2skkkQQ
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55352755812_2ce9501f2e_b.jpg
+      row_span: 1
+      description_en: Path along the Urseren valley from Andermatt to Realp.
+      description_cz: Stezka údolím Urseren z Andermattu do Realpu.
+    - click_url: https://flic.kr/p/2skkkQu
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55352755792_acdfe5cf12_k.jpg
+      row_span: 1
+      description_en: Signpost in Hospental below the Gotthard pass.
+      description_cz: Rozcestník v Hospentalu pod Gotthardským průsmykem.
+    - click_url: https://flic.kr/p/2skqWMV
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55353848943_e74c4d8bd7_z.jpg
+      row_span: 2
+      description_en: A creek flowing down the northern slopes of the Urseren valley between Andermatt and Realp.
+      description_cz: Potok na severním svahu údolí Urseren mezi Andermattem a Realpem.
+    - click_url: https://flic.kr/p/2skq9VC
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55353694646_843f778d46_b.jpg
+      row_span: 1
+      description_en: View of a railway bridge in the Urseren valley, looking up towards Realp and Furka pass.
+      description_cz: Železniční most v údolí Urseren v pohledu nahoru k Realpu a průsmyku Furka.
+    - click_url: https://flic.kr/p/2skkkP2
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55352755707_c765c6a89b_b.jpg
+      row_span: 1
+      description_en: Northern slopes of the Urseren valley.
+      description_cz: Severní svahy údolí Urseren.
+  - date: "13 Sep 2025"
+    length: 28.9
+    elevation_gain: 703
+    elevation_loss: 686
+    from: Aarau
+    to: Gelterkinden
+    images:
+    - click_url: https://flic.kr/p/2skqWKF
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55353848813_b2a2a41f25_k.jpg
+      row_span: 1
+      description_en: The train journey to the starting point of today's hike. This is where I'm heading today.
+      description_cz: Cesta vlakem do výchozího bodu dnešní túry. Sem dnes budu mířit.
+    - click_url: https://flic.kr/p/2skkkN5
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55352755652_1ff3ba62d3_k.jpg
+      row_span: 1
+      description_en: The village of Oltingen seen from a mountain ridge while descending from the Schafmatt pass to the village of Anvil.
+      description_cz: Vesnice Oltingen viděná z hřebenu při sestupu z průsmyku Schafmatt do vesnice Anvil.
+  - date: "18 Oct 2025"
+    length: 24.9
+    elevation_gain: 907
+    elevation_loss: 631
+    from: Gelterkinden
+    to: Gempen
+    images:
+    - click_url: https://flic.kr/p/2skrdqQ
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55353901544_051cb80864_b.jpg
+      row_span: 1
+      description_en: A strange diorama built by someone on a stump in the middle of a forest above Gelterkinden.
+      description_cz: Zvláštní diorama, které někdo postavil na pařezu uprostřed lesa nad městem Gelterkinden.
+    - click_url: https://flic.kr/p/2sksigf
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55354112920_3bb2e9ba41_z.jpg
+      row_span: 2
+      description_en: Fall colors are starting to show in the hills above the Ergolz valley.
+      description_cz: Podzimní barvy se začínají ukazovat v kopcích nad údolím řeky Ergolz.
+    - click_url: https://flic.kr/p/2skq9SX
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55353694491_68580b06cb_k.jpg
+      row_span: 1
+      description_en: View of the town of Sissach from the hills in the north.
+      description_cz: Pohled na město Sissach z kopců na severu.
+    - click_url: https://flic.kr/p/2skrdps
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55353901464_f864147be9_b.jpg
+      row_span: 1
+      description_en: The sun is almost down. I'm looking from the viewpoint Herrenberg back at the village of Nuglar shaded by the eastern edge of the Gempen plateau.
+      description_cz: Slunce už téměř zapadlo. Dívám se z vyhlídky Herrenberg zpátky na obec Nuglar ve stínu východního okraje Gempenské plošiny (Gempenplateau).
+  - date: "08 Nov 2025"
+    length: 15.3
+    elevation_gain: 139
+    elevation_loss: 439
+    from: Gempen
+    to: Flüh
+    images: []
+  - date: "15 Nov 2025"
+    length: 11.2
+    elevation_gain: 63
+    elevation_loss: 83
+    from: Zurich
+    to: Adliswil
+    images: []
+  - date: "22 Nov 2025"
+    length: 7.1
+    elevation_gain: 36
+    elevation_loss: 3
+    from: Adliswil
+    to: Sihlwald
+    images:
+    - click_url: https://flic.kr/p/2skqmsx
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55353733443_96fcc9aeb2_b.jpg
+      row_span: 1
+      description_en: The river Sihl between Adliswil and Sihlwald.
+      description_cz: Řeka Sihl mezi Adliswilem a Sihlwaldem.
+    - click_url: https://flic.kr/p/2skqmsT
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55353733463_1843e0d1f3_h.jpg
+      row_span: 1
+      description_en: Information posters at the inlet of the Sihl overflow tunnel. In the event of flooding, it protects the lower-lying towns and the city of Zurich by diverting excess water into lake Zurich.
+      description_cz: Informační plakáty u vpusti sihlské přetokové štoly. V případě vysoké vody chrání níže ležící města a Curych před záplavami tím, že odvede přebytečnou vodu do Curyšského jezera.
+  - date: "29 Nov 2025"
+    length: 13.7
+    elevation_gain: 428
+    elevation_loss: 468
+    from: Sihlwald
+    to: Baar
+    images:
+    - click_url: https://flic.kr/p/2skprCc
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55353555711_6fb4a12446_b.jpg
+      row_span: 1
+      description_en: Path through the forest from Sihlwald to the top of Albishorn.
+      description_cz: Stezka lesem ze Sihlwaldu na vrchol Albishornu.
+    - click_url: https://flic.kr/p/2skrzZn
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55353974075_5545da905f_b.jpg
+      row_span: 1
+      description_en: Looking from Albishorn at the southern end of lake Zurich and the Glarus Alps.
+      description_cz: Pohled z Albishornu na jižní cíp Curyšského jezera a Glarnské Alpy.
+    - click_url: https://flic.kr/p/2skrzZ2
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55353974055_c5c5dd0ac4_b.jpg
+      row_span: 1
+      description_en: Looking from Albishorn at the northern end of lake Zurich and the city of Zurich.
+      description_cz: Pohled z Albishornu na severní cíp Curyšského jezera a Curych.
+    - click_url: https://flic.kr/p/2skprAy
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55353555616_6d0423b310_b.jpg
+      row_span: 1
+      description_en: View of Baar, Zug and lake Zug from a field on the way down from Albishorn.
+      description_cz: Pohled na Baar, Zug a Zugské jezero z pole po cestě dolů z Albishornu.
+  - date: "07 Feb 2026"
+    length: 17.1
+    elevation_gain: 589
+    elevation_loss: 615
+    from: Flüh
+    to: Laufen
+    images:
+    - click_url: https://flic.kr/p/2skrzV9
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55353973830_ad854dec2f_k.jpg
+      row_span: 1
+      description_en: View of the Birs valley and Laufen from the slopes of Forstberg.
+      description_cz: Pohled na údolí řeky Birs a město Laufen ze svahů hory Forstberg.
+    - click_url: https://flic.kr/p/2skqexv
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55353710183_078a41d0c6_z.jpg
+      row_span: 1
+      description_en: Main street of the town of Laufen with the upper gate (Obertor).
+      description_cz: Hlavní ulice města Laufen s horní věží (Obertor).
+  - date: "28 Feb 2026"
+    length: 21.8
+    elevation_gain: 41
+    elevation_loss: 13
+    from: Rüthi
+    to: Sevelen
+    images:
+    - click_url: https://flic.kr/p/2skprzX
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55353555581_789473dd77_k.jpg
+      row_span: 1
+      description_en: The Rhine on the border between Liechtenstein and Switzerland.
+      description_cz: Rýn na hranici mezi Lichtenštejnskem a Švýcarskem.
+    - click_url: https://flic.kr/p/2skqexk
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55353710173_08391138ee_b.jpg
+      row_span: 1
+      description_en: Border crossing for pedestrians between Austria and Liechtenstein.
+      description_cz: Hraniční přechod pro pěší mezi Rakouskem a Lichtenštejnskem.
+    - click_url: https://flic.kr/p/2skquNG
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55353761524_d1e8afbc18_b.jpg
+      row_span: 1
+      description_en: An old covered wooden bridge over the Rhine forms the border between Liechtenstein and Switzerland at Sevelen.
+      description_cz: Starý dřevěný krytý most přes Rýn představuje hranici mezi Lichtenštejnskem a Švýcarskem u obce Sevelen.
+  - date: "07 Mar 2026"
+    length: 20.1
+    elevation_gain: 640
+    elevation_loss: 630
+    from: Baar
+    to: Walchwil
+    images:
+    - click_url: https://flic.kr/p/2sk8ZmA
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55350540662_d816d6faef_z.jpg
+      row_span: 2
+      description_en: Road bridges over the Lorze river valley on the way from Baar to Unterägeri.
+      description_cz: Silniční mosty přes údolí řeky Lorze na cestě z Baaru do Unterägeri.
+    - click_url: https://flic.kr/p/2skeScq
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55351687254_942dfc0613_b.jpg
+      row_span: 1
+      description_en: Bridges seen from below. Just out of shot are two people hanging on ropes from the lower bridges, maybe practicing abseiling.
+      description_cz: Mosty v pohledu zespodu. Těsně mimo záběr jsou dva lidé zavěšení na lanech z nižšího z mostů, nejspíš cvičící slaňování.
+    - click_url: https://flic.kr/p/2skfW7J
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55351895550_fb28c49642_b.jpg
+      row_span: 1
+      description_en: Wooden bridge over the Lorze river above the small hydropower plant Lorzentobel.
+      description_cz: Dřevěný most přes řeku Lorze nad malou vodní elektrárnou Lorzentobel.
+    - click_url: https://flic.kr/p/2skfW7i
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55351895525_f933e0fc04_b.jpg
+      row_span: 1
+      description_en: Low afternoon sun over lake Zug seen from above Walchwil.
+      description_cz: Nízké odpolední slunce nad Zugským jezerem z výhledu nad městem Walchwil.
+  - date: "21 Mar 2026"
+    length: 21.0
+    elevation_gain: 407
+    elevation_loss: 355
+    from: Sevelen
+    to: Maienfeld
+    images:
+    - click_url: https://flic.kr/p/2skeShA
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55351687554_a23d3cc7b4_b.jpg
+      row_span: 1
+      description_en: Ruins of castle Wartau and, hidden in the cliffs on the left, WWII-era infantry fortification.
+      description_cz: Zřícenina hradu Wartau a v útesech nalevo ukrytá pěchotní tvrz z druhé světové války.
+    - click_url: https://flic.kr/p/2skdLGM
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55351473661_8782569cf0_b.jpg
+      row_span: 1
+      description_en: View from the saddle under Wartau overlooking the village of Gretschins. In the background on the left is the mountain Mittagspitz in Liechtenstein.
+      description_cz: Pohled ze sedla pod Wartau na obec Gretschins. V pozadí vlevo je hora Mittagspitz v Lichtenštejnsku.
+    - click_url: https://flic.kr/p/2sk8ZjB
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55350540547_df14c28a57_b.jpg
+      row_span: 1
+      description_en: Parish church of St. Nicholas in Balzers, Liechtenstein, dedicated to the 50th jubillee of Prince Johann II of Liechtenstein in 1908.
+      description_cz: Farní kostel svatého Mikuláše v lichtenštejnské obci Balzers, věnovaný v roce 1908 padesátému výročí vlády knížete Jana II. z Lichtenštejna.
+    - click_url: https://flic.kr/p/2skdLFz
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55351473591_309db0e45f_b.jpg
+      row_span: 1
+      description_en: Solitary trees on the slopes North of Maienfeld.
+      description_cz: Osamocené stromy na svahu severně od Maienfeldu.
+    - click_url: https://flic.kr/p/2sk8Zie
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55350540467_f0aecda12b_b.jpg
+      row_span: 1
+      description_en: Unexpected sign pointing to the Heididorf (Heidi's village) tourist attraction.
+      description_cz: Nečekaný ukazatel k turistické atrakci Heididorf (Heidina vesnice).
+    - click_url: https://flic.kr/p/2skezpG
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55351630778_719c60b2d4_b.jpg
+      row_span: 1
+      description_en: Heidi and her animals welcoming tourists.
+      description_cz: Heidi a její zvířata vítají turisty.
+  - date: "28 Mar 2026"
+    length: 24.5
+    elevation_gain: 247
+    elevation_loss: 167
+    from: Maienfeld
+    to: Chur
+    images: []
+  - date: "11 Apr 2026"
+    length: 24.4
+    elevation_gain: 998
+    elevation_loss: 948
+    from: Laufen
+    to: Delemont
+    images:
+    - click_url: https://flic.kr/p/2skeSdn
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55351687309_c2798d4415_b.jpg
+      row_span: 1
+      description_en: Meadows in the valley between Grindel and Bärschwil in the Solothurn Jura mountains.
+      description_cz: Louky v údolí mezi obcemi Grindel a Bärschwil v pohoří Solothurnský Jura.
+    - click_url: https://flic.kr/p/2skfW1G
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55351895200_c2c254f1fb_b.jpg
+      row_span: 1
+      description_en: Paragliding launch site above the village of Bärschwil.
+      description_cz: Startovací místo pro paragliding nad vesnicí Bärschwil.
+  - date: "18 Apr 2026"
+    length: 13.8
+    elevation_gain: 1113
+    elevation_loss: 1055
+    from: Walchwil
+    to: Goldau
+    images:
+    - click_url: https://flic.kr/p/2sk2AwW
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55349293218_806cd7fcf1_k.jpg
+      row_span: 1
+      description_en: Cross on top of the Gnipen summit. Behind it is the valley around Goldau and the massives of Rigi Hochflue (left) and Rigi Scheidegg (right).
+      description_cz: Kříž na vrcholu Gnipen. Za ním je údolí kolem Goldau a masivy Rigi Hochflue (vlevo) a Rigi Scheidegg (vpravo).
+    - click_url: https://flic.kr/p/2sk1Mjs
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55349134386_57dd54c41c_b.jpg
+      row_span: 1
+      description_en: Site of a past large rock-slide above the town of Goldau. In 1806, 40 million cubic meters of rock slid into the valley and destroyed over 100 houses, killing nearly 500 people.
+      description_cz: Místo někdejšího velkého sesuvu půdy nad městem Goldau. V roce 1806 se 40 milionů kubických metrů suti sesunulo do údolí, zničilo přes 100 domů a usmrtilo téměř 500 lidí.
+    - click_url: https://flic.kr/p/2sjW1e1
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55348202242_7e72401cd9_b.jpg
+      row_span: 1
+      description_en: White alpine crocus flowers at the summit of Gnipen.
+      description_cz: Bílé alpské krokusy na vrcholu Gnipen.
+    - click_url: https://flic.kr/p/2sk2AxC
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55349293258_49cdb1a847_b.jpg
+      row_span: 1
+      description_en: The summit of Gnipen with the Rigi mountain in the background.
+      description_cz: Vrchol Gnipen s horou Rigi v pozadí.
+    - click_url: https://flic.kr/p/2sk2TCL
+      col_span: 2
+      image_url: https://live.staticflickr.com/65535/55349350744_13e4de222c_k.jpg
+      row_span: 1
+      description_en: Panoramic view of an alpine meadow near the top of Gnipen with a few remains of last winter's snow.
+      description_cz: Panorama alpské louky pod vrcholem Gnipen se zbytky sněhu po minulé zimě.
+  - date: "25 Apr 2026"
+    length: 29.0
+    elevation_gain: 850
+    elevation_loss: 919
+    from: Goldau
+    to: Luzern
+    images:
+    - click_url: https://flic.kr/p/2sk3Dup
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55349498275_3269bb21a5_b.jpg
+      row_span: 1
+      description_en: Lake Zug seen from Seebodenalp on the slopes of Rigi. In the distance, at the farthest tip of the lake is the town of Zug.
+      description_cz: Zugské jezero v pohledu ze Seebodenalp na svazích Rigi. V dálce, v nejzazším cípu jezera, je město Zug.
+    - click_url: https://flic.kr/p/2sk2Bbn
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55349295389_afe8404324_b.jpg
+      row_span: 1
+      description_en: A short distance further, looking West, we can see lake Luzern with the Pilatus massif in the background.
+      description_cz: O kousek dál po cestě je při pohledu na západ vidět Lucernské jezero a za ním masiv Pilatus.
+    - click_url: https://flic.kr/p/2sjVHVu
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55348147402_c870b942a5_b.jpg
+      row_span: 1
+      description_en: Cherry trees in bloom above lake Luzern and lake Zug.
+      description_cz: Třešně v květu nad Lucernským a Zugským jezerem.
+    - click_url: https://flic.kr/p/2sk2Bbs
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55349295394_7f43ee6597_b.jpg
+      row_span: 1
+      description_en: View South over Küssnacht and the North-Eastern tip of Lake Luzern towards the Alps.
+      description_cz: Výhled na jih přes Küssnacht a severovýchodní cíp Lucernského jezera k Alpám.
+  - date: "01 May 2026"
+    length: 26.3
+    elevation_gain: 753
+    elevation_loss: 715
+    from: Luzern
+    to: Sarnen
+    images:
+    - click_url: https://flic.kr/p/2sk2e3o
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55349220918_ab1ef0319a_b.jpg
+      row_span: 1
+      description_en: View of lake Luzern from the West with Rigi in the background.
+      description_cz: Pohled na Lucernské jezero ze západu s horou Rigi v pozadí.
+    - click_url: https://flic.kr/p/2sk1pZD
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55349062651_b82835a16f_z.jpg
+      row_span: 1
+      description_en: Renggkapelle below Renggpass.
+      description_cz: Renggkapelle pod průsmykem Renggpass.
+    - click_url: https://flic.kr/p/2sk3yjV
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55349480905_33a0ac3d11_z.jpg
+      row_span: 1
+      description_en: Fortifications on the southern side of Renggpass built during WWII.
+      description_cz: Opevnění na severní straně průsmyku Renggpass postavené během druhé světové války.
+  - date: "09 May 2026"
+    length: 27.3
+    elevation_gain: 271
+    elevation_loss: 243
+    from: Kaiserstuhl
+    to: Rheinau
+    images: []
+  - date: "16 May 2026"
+    length: 23.6
+    elevation_gain: 1391
+    elevation_loss: 661
+    from: Chur
+    to: Langwies
+    images:
+    - click_url: https://flic.kr/p/2sk3nHj
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55349445200_0f04ed3b4c_b.jpg
+      row_span: 1
+      description_en: Looking down on Chur from the slopes above Passugg.
+      description_cz: Pohled dolů na Chur ze svahů nad obcí Passugg.
+    - click_url: https://flic.kr/p/2sjVs2A
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55348093932_523631f91e_b.jpg
+      row_span: 1
+      description_en: The valley of the Plessur river seen from its north-facing slope.
+      description_cz: Údolí řeky Plessur v pohledu ze severního svahu.
+    - click_url: https://flic.kr/p/2sk1etJ
+      col_span: 2
+      image_url: https://live.staticflickr.com/65535/55349027276_0692067a1e_h.jpg
+      row_span: 1
+      description_en: Panoramic view of the valley from a path descending towards Molinis from Tschiertschen.
+      description_cz: Panorama údolí ze stezky sestupující do obce Molinis z obce Tschiertschen.
+    - click_url: https://flic.kr/p/2sk1erQ
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55349027166_9ea53d2f78_b.jpg
+      row_span: 1
+      description_en: Waiting for a train home at Langwies.
+      description_cz: Čekání na vlak domů na zastávce Langwies.
+  - date: "23 May 2026"
+    length: 16.0
+    elevation_gain: 1120
+    elevation_loss: 701
+    from: Langwies
+    to: Arosa
+    images:
+    - click_url: https://flic.kr/p/2sk2biw
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55349211704_f06045da11_b.jpg
+      row_span: 1
+      description_en: Map of the Canton of Graubünden on a train table.
+      description_cz: Mapa kantonu Graubünden na stolku ve vlaku.
+    - click_url: https://flic.kr/p/2sk1TiJ
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55349154528_c3519a59d2_b.jpg
+      row_span: 1
+      description_en: Signpost at Alteinsee surrounded by knee-deep snow. I'm not prepared for this and turning back here.
+      description_cz: Ukazatel u jezera Alteinsee obklopený sněhem po kolena. Na to nejsem připravený, a tak se tady obracím nazpátek.
+    - click_url: https://flic.kr/p/2sk2bhu
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55349211644_564427e614_b.jpg
+      row_span: 1
+      description_en: Looking towards the Valbella Furgga pass. This was to be my destination before descending down the other side. Clearly, I am here a few weeks too early.
+      description_cz: Pohled k průsmyku Valbella Furgga. Ten měl být mým cílem před sestupem dolů na opačné straně. Zjevně jsem tady o pár týdnů příliš brzy.
+    - click_url: https://flic.kr/p/2sk1TiU
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55349154538_4487a0366a_b.jpg
+      row_span: 1
+      description_en: Looking back down at the town and ski resort of Arosa.
+      description_cz: Pohled zpět na město a lyžařské středisko Arosa.
+    - click_url: https://flic.kr/p/2sjVinS
+      col_span: 2
+      image_url: https://live.staticflickr.com/65535/55348064832_cbf8c3ea07_h.jpg
+      row_span: 1
+      description_en: Panoramic view of the plateau around Alteinsee.
+      description_cz: Panorama plošiny kolem Alteinsee.
+    - click_url: https://flic.kr/p/2sjVikC
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55348064702_ced346e51f_b.jpg
+      row_span: 1
+      description_en: Nice view during a short snack break before heading back down.
+      description_cz: Pěkný výhled při krátké přestávce na svačinu než vyrazím zpátky dolů.
+  - date: "20 Jun 2026"
+    length: 21.2
+    elevation_gain: 982
+    elevation_loss: 1155
+    from: Realp
+    to: Oberwald
+    images:
+    - click_url: https://flic.kr/p/2sk1mMU
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55349051878_8e2496f287_b.jpg
+      row_span: 1
+      description_en: View East along the upper Urseren valley.
+      description_cz: Pohled na východ horní částí údolí Urseren.
+    - click_url: https://flic.kr/p/2sk2G1o
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55349311630_aca8a5a61e_b.jpg
+      row_span: 1
+      description_en: Looking back during a short break just below the Furka pass.
+      description_cz: Ohlédnutí zpět při krátké pauze těsně pod průsmykem Furka.
+    - click_url: https://flic.kr/p/2sk1mRg
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55349052073_ca85b0fc67_b.jpg
+      row_span: 1
+      description_en: Train of the <a href="https://www.dfb.ch/en/" target="_blank">Furka steam railway</a> descending from the Furka tunnel down towards Realp.
+      description_cz: Vlak <a href="https://www.dfb.ch/en/" target="_blank">parní železniční dráhy Furka</a> sjíždí od tunelu Furka do Realpu.
+    - click_url: https://flic.kr/p/2sjULLM
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55347961877_188c157a57_k.jpg
+      row_span: 1
+      description_en: Signpost in the Furka pass.
+      description_cz: Ukazatel v průsmyku Furka.
+  - date: "11 Jul 2026"
+    length: 22.2
+    elevation_gain: 1048
+    elevation_loss: 1706
+    from: Arosa
+    to: Filisur
+    images:
+    - click_url: https://flic.kr/p/2sotYtr
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55388389423_4108738b91_z.jpg
+      row_span: 2
+      description_en: Pedestrian suspension bridge over a gully on the way up the Welschtobel valley.
+      description_cz: Visutý most pro pěší přes rokli na cestě nahoru údolím Welschtobel.
+    - click_url: https://flic.kr/p/2soovMu
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55387324082_c1defc702d_b.jpg
+      row_span: 1
+      description_en: A view back down the Welschtobel valley from a steeper climb below the Ramozhütte hut.
+      description_cz: Pohled zpět údolím Welschtobel ze strmějšího stoupání pod chatou Ramozhütte.
+    - click_url: https://flic.kr/p/2soovLC
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55387324032_559c84dab3_z.jpg
+      row_span: 2
+      description_en: Signpost in the Furcletta pass.
+      description_cz: Ukazatel v průsmyku Furcletta.
+    - click_url: https://flic.kr/p/2sotYrY
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55388389338_6f2d2bee29_b.jpg
+      row_span: 1
+      description_en: A short break just below Furcletta.
+      description_cz: Krátká přestávka kousek pod Furclettou.
+    - click_url: https://flic.kr/p/2sovkn5
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55388654810_338d0e63a7_b.jpg
+      row_span: 1
+      description_en: View from Furcletta down the Welschtobel valley, in the direction of Arosa.
+      description_cz: Výhled z Furcletty do údolí Welschtobel ve směru do Arosy.
+    - click_url: https://flic.kr/p/2soue8Y
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55388438754_2dadbef827_k.jpg
+      row_span: 1
+      description_en: View from Furcletta down the Val digl Guert valley, in the direction of Filisur.
+      description_cz: Výhled z Furcletty do údolí Val digl Guert ve směru do Filisuru.
+    - click_url: https://flic.kr/p/2souFxr
+      col_span: 2
+      image_url: https://live.staticflickr.com/65535/55388527579_024b3e682d_k.jpg
+      row_span: 1
+      description_en: Panoramic view from Furcletta indicating the path up Welschtobel and down the Val digl Guert.
+      description_cz: Panorama z průsmyku Furcletta s vyznačenou cestou nahoru údolím Welschtobel a dolů údolím Val digl Guert.
+    - click_url: https://flic.kr/p/2sotYrn
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55388389303_8d10bc4aeb_b.jpg
+      row_span: 1
+      description_en: Descent to the Albula valley via Val digl Guert.
+      description_cz: Sestup do údolí řeky Albula přes Val digl Guert.
+    - click_url: https://flic.kr/p/2soth3K
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55388253431_00d4e80068_b.jpg
+      row_span: 1
+      description_en: Catching the last train home from Filisur.
+      description_cz: Stíhám poslední vlak domů z Filisuru.
