@@ -42,7 +42,7 @@ routes:
     map_filename: map_route_Emme
   - heading_en: To the French border
     heading_cz: K francouzské hranici
-    length: 162.3
+    length: 185.5
     places:
     - name: Zurich
     - name: Reppischhof
@@ -53,8 +53,9 @@ routes:
     - name: Flüh
     - name: Laufen
     - name: Delemont
-    description_en: Crossing the Limmat valley to Schlieren, Rudolfstetten and Bremgarten, then over the forested hills west of the town to Wohlen, around the hill Eichberg to Seon, then over another ridge to Suhr and Aarau. Crossing the Aare and up to Schafmatt pass, then down the northern slopes to Rothenfluh and following the valley to Gelterkinden. A detour via the hills to the north to Lausen and Liestal, then leaving the valley up to Nuglar and Gempen. Then down again to the Birs valley and to the French border at Flüh. Turning South-West to Metzerlen and then South over the Challpass to Laufen. Crossing the Birs once again, up to Karlisberg and then following the ridge westward before descending to Delemont.
-    description_cz: Přecházím údolí Limmatu do Schlierenu, Rudolfstettenu a Bremgartenu, pak přes zalesněné kopce na západ od města do Wohlenu, kolem kopce Eichbergu do Seonu, pak přes další hřeben do Suhru a Aarau. Přecházím Aare a jdu nahoru do průsmyku Schafmatt, pak dolů po severních svazích do Rothenfluhu a údolím do Gelterkindenu. Zacházkou přes kopce na sever do Lausenu a Liestalu, pak opouštím údolí a jdu nahoru do vesnic Nuglar a Gempen. Poté opět dolů do údolí řeky Birs a k francouzským hranicím ve vsi Flüh. Stáčím se na severozápad do Metzerlenu a pak na jih přes průsmyk Challpass do Laufenu. Tam znovu přecházím přes Birs, nahoru na Karlisberg a po hřebeni na západ než sestoupím do Delemontu.
+    - name: Court
+    description_en: Crossing the Limmat valley to Schlieren, Rudolfstetten and Bremgarten, then over the forested hills west of the town to Wohlen, around the hill Eichberg to Seon, then over another ridge to Suhr and Aarau. Crossing the Aare and up to Schafmatt pass, then down the northern slopes to Rothenfluh and following the valley to Gelterkinden. A detour via the hills to the north to Lausen and Liestal, then leaving the valley up to Nuglar and Gempen. Then down again to the Birs valley and to the French border at Flüh. Turning South-West to Metzerlen and then South over the Challpass to Laufen. Crossing the Birs once again, up to Karlisberg and then following the ridge westward before descending to Delemont. From here I cross the next ridge in the south to Moutier and then through along the Rue des Gorges to the town of Court.
+    description_cz: Přecházím údolí Limmatu do Schlierenu, Rudolfstettenu a Bremgartenu, pak přes zalesněné kopce na západ od města do Wohlenu, kolem kopce Eichbergu do Seonu, pak přes další hřeben do Suhru a Aarau. Přecházím Aare a jdu nahoru do průsmyku Schafmatt, pak dolů po severních svazích do Rothenfluhu a údolím do Gelterkindenu. Zacházkou přes kopce na sever do Lausenu a Liestalu, pak opouštím údolí a jdu nahoru do vesnic Nuglar a Gempen. Poté opět dolů do údolí řeky Birs a k francouzským hranicím ve vsi Flüh. Stáčím se na severozápad do Metzerlenu a pak na jih přes průsmyk Challpass do Laufenu. Tam znovu přecházím přes Birs, nahoru na Karlisberg a po hřebeni na západ než sestoupím do Delemontu. Odtud pak přecházím přes další hřeben na jih do Moutier a pak soutěskou podél Rue des Gorges do obce Court.
     map_filename: map_route_F
   - heading_en: To Liechtenstein and the Austrian border
     heading_cz: Do Lichtenštejnska a k rakouské hranici
@@ -1088,3 +1089,9 @@ hikes:
       row_span: 1
       description_en: Catching the last train home from Filisur.
       description_cz: Stíhám poslední vlak domů z Filisuru.
+  - date: "18 Jul 2026"
+    length: 23.1
+    elevation_gain: 949
+    elevation_loss: 695
+    from: Delemont
+    to: Court
