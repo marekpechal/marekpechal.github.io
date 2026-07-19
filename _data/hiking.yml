@@ -37,7 +37,7 @@ routes:
     - name: Cham
     - name: Ebikon
     - name: Wolhusen
-    description_en: Around Uetliberg from the North via Birmensdorf, then southward via Bonstetten to Affoltern am Albis and further towards the Lorze and following it to Cham at lake Zug. Hugging the lake for a bit, then turning South-West to Meierskappel and following the ridge before descending to Ebikon in the Reuss valley. Passing through the urban area around Emmen to continue upstream along the Kleine Emme to Werthenstein and Wolhusen.
+    description_en: Around Uetliberg from the north via Birmensdorf, then southward via Bonstetten to Affoltern am Albis and further towards the Lorze and following it to Cham at lake Zug. Hugging the lake for a bit, then turning south-west to Meierskappel and following the ridge before descending to Ebikon in the Reuss valley. Passing through the urban area around Emmen to continue upstream along the Kleine Emme to Werthenstein and Wolhusen.
     description_cz: Kolem Uetlibergu ze severu přes Birmensdorf, pak na jih přes Bonstetten do Affolternu am Albis a dál k řece Lorze a podél ní do města Cham u Zugského jezera. Nejdříve chvíli jdu podél břehu jezera, pak se obracím na jihozápad do vesnice Meierskappel a po hřebeni, než pak sejdu do Ebikonu v údolí řeky Reuss. Procházím zastavěným územím kolem města Emmen a pokračuji proti proudu řeky Kleine Emme do Werthensteinu a Wolhusenu.
     map_filename: map_route_Emme
   - heading_en: To the French border
@@ -54,7 +54,7 @@ routes:
     - name: Laufen
     - name: Delemont
     - name: Court
-    description_en: Crossing the Limmat valley to Schlieren, Rudolfstetten and Bremgarten, then over the forested hills west of the town to Wohlen, around the hill Eichberg to Seon, then over another ridge to Suhr and Aarau. Crossing the Aare and up to Schafmatt pass, then down the northern slopes to Rothenfluh and following the valley to Gelterkinden. A detour via the hills to the north to Lausen and Liestal, then leaving the valley up to Nuglar and Gempen. Then down again to the Birs valley and to the French border at Flüh. Turning South-West to Metzerlen and then South over the Challpass to Laufen. Crossing the Birs once again, up to Karlisberg and then following the ridge westward before descending to Delemont. From here I cross the next ridge in the south to Moutier and then through along the Rue des Gorges to the town of Court.
+    description_en: Crossing the Limmat valley to Schlieren, Rudolfstetten and Bremgarten, then over the forested hills west of the town to Wohlen, around the hill Eichberg to Seon, then over another ridge to Suhr and Aarau. Crossing the Aare and up to Schafmatt pass, then down the northern slopes to Rothenfluh and following the valley to Gelterkinden. A detour via the hills to the north to Lausen and Liestal, then leaving the valley up to Nuglar and Gempen. Then down again to the Birs valley and to the French border at Flüh. Turning south-west to Metzerlen and then south over the Challpass to Laufen. Crossing the Birs once again, up to Karlisberg and then following the ridge westward before descending to Delemont. From here I cross the next ridge in the south to Moutier and then through along the Rue des Gorges to the town of Court.
     description_cz: Přecházím údolí Limmatu do Schlierenu, Rudolfstettenu a Bremgartenu, pak přes zalesněné kopce na západ od města do Wohlenu, kolem kopce Eichbergu do Seonu, pak přes další hřeben do Suhru a Aarau. Přecházím Aare a jdu nahoru do průsmyku Schafmatt, pak dolů po severních svazích do Rothenfluhu a údolím do Gelterkindenu. Zacházkou přes kopce na sever do Lausenu a Liestalu, pak opouštím údolí a jdu nahoru do vesnic Nuglar a Gempen. Poté opět dolů do údolí řeky Birs a k francouzským hranicím ve vsi Flüh. Stáčím se na severozápad do Metzerlenu a pak na jih přes průsmyk Challpass do Laufenu. Tam znovu přecházím přes Birs, nahoru na Karlisberg a po hřebeni na západ než sestoupím do Delemontu. Odtud pak přecházím přes další hřeben na jih do Moutier a pak soutěskou podél Rue des Gorges do obce Court.
     map_filename: map_route_F
   - heading_en: To Liechtenstein and the Austrian border
@@ -92,28 +92,28 @@ routes:
     map_filename: map_route_Sarnersee
 
 hikes:
-  - date: "03 Feb 2024"
+  - date: "03.02.2024"
     length: 18.4
     elevation_gain: 294
     elevation_loss: 342
     from: Zurich
     to: Otelfingen
     images: []
-  - date: "10 Feb 2024"
+  - date: "10.02.2024"
     length: 20.6
     elevation_gain: 533
     elevation_loss: 463
     from: Zurich
     to: Egg
     images: []
-  - date: "17 Feb 2024"
+  - date: "17.02.2024"
     length: 24.2
     elevation_gain: 635
     elevation_loss: 781
     from: Egg
     to: Pfaffikon
     images: []
-  - date: "09 Mar 2024"
+  - date: "09.03.2024"
     length: 13.5
     elevation_gain: 844
     elevation_loss: 424
@@ -132,7 +132,7 @@ hikes:
       row_span: 1
       description_en: View from the western slopes of Etzel towards Zürichsee. The city of Zurich is visible at the far end of the lake.
       description_cz: Výhled ze západního úbočí Etzelu na Curyšské jezero. Curych je vidět na vzdáleném konci jezera.
-  - date: "16 Mar 2024"
+  - date: "16.03.2024"
     length: 20.0
     elevation_gain: 1038
     elevation_loss: 1085
@@ -151,28 +151,28 @@ hikes:
       row_span: 1
       description_en: Germany on the other side of the bridge.
       description_cz: Německo na protější straně mostu.
-  - date: "24 Mar 2024"
+  - date: "24.03.2024"
     length: 14.2
     elevation_gain: 551
     elevation_loss: 601
     from: Biberbrugg
     to: Sattel
     images: []
-  - date: "27 Apr 2024"
+  - date: "27.04.2024"
     length: 12.4
     elevation_gain: 250
     elevation_loss: 236
     from: Zurich
     to: Birmensdorf
     images: []
-  - date: "04 May 2024"
+  - date: "04.05.2024"
     length: 13.2
     elevation_gain: 197
     elevation_loss: 180
     from: Birmensdorf
     to: Affoltern am Albis
     images: []
-  - date: "18 May 2024"
+  - date: "18.05.2024"
     length: 14.6
     elevation_gain: 71
     elevation_loss: 153
@@ -185,7 +185,7 @@ hikes:
       row_span: 1
       description_en: Preparation for (or the aftermath of?) some kind of rowing event in Cham at Zugersee (Lake Zug). The tallest peak behind the lake is Rigi - a mountain whose summit can be reached by a cogwheel railway.
       description_cz: Přípravy na nějakou veslařskou akci (nebo úklid po ní?) ve městě Cham na Zugském jezeře. Nejvyšší vrchol za jezerem je Rigi - hora, na kterou se dá dostat zubačkovou dráhou.
-  - date: "25 May 2024"
+  - date: "25.05.2024"
     length: 21.2
     elevation_gain: 576
     elevation_loss: 574
@@ -196,7 +196,7 @@ hikes:
       col_span: 1
       image_url: https://live.staticflickr.com/65535/55358332857_fb6915f993_b.jpg
       row_span: 1
-      description_en: Rigi seen from the North. On the left is Zugersee, on the right Vierwaldstättersee (Lake Luzern).
+      description_en: Rigi seen from the north. On the left is Zugersee, on the right Vierwaldstättersee (Lake Luzern).
       description_cz: Rigi v pohledu ze severu. Vlevo je Zugské jezero, vpravo Lucernské jezero.
     - click_url: https://flic.kr/p/2skVJvZ
       col_span: 1
@@ -204,7 +204,7 @@ hikes:
       row_span: 1
       description_en: An orchard above the Reuss valley.
       description_cz: Sad nad údolím řeky Reuss.
-  - date: "05 Apr 2025"
+  - date: "05.04.2025"
     length: 15.0
     elevation_gain: 160
     elevation_loss: 510
@@ -223,7 +223,7 @@ hikes:
       row_span: 1
       description_en: Dandelions on the way down to Steinen. On the left is Lauerzersee, on the right, peaking above the nearby slope, is Rigi.
       description_cz: Pampelišky po cestě dolů do města Steinen. Vlevo je vidět jezero Lauerzersee, vpravo vykukuje zpoza bližšího svahu hora Rigi.
-  - date: "26 Apr 2025"
+  - date: "26.04.2025"
     length: 20.0
     elevation_gain: 638
     elevation_loss: 630
@@ -272,7 +272,7 @@ hikes:
       row_span: 1
       description_en: Close to the southern end of the lake, the path (serving both pedestrians and bicycles) passes through tunnels and galleries.
       description_cz: V blízkosti jižního konce jezera stezka (pro pěší i cyklisty) vede tunely a galeriemi.
-  - date: "01 May 2025"
+  - date: "01.05.2025"
     length: 25.6
     elevation_gain: 303
     elevation_loss: 157
@@ -289,7 +289,7 @@ hikes:
       col_span: 1
       image_url: https://live.staticflickr.com/65535/55358275452_cf81d4e264_b.jpg
       row_span: 1
-      description_en: A railway bridge East of Werthenstein.
+      description_en: A railway bridge east of Werthenstein.
       description_cz: Železniční most východně od vesnice Werthenstein.
     - click_url: https://flic.kr/p/2skWyXK
       col_span: 1
@@ -303,14 +303,14 @@ hikes:
       row_span: 2
       description_en: A meadow in bloom between Werthenstein and Wolhusen.
       description_cz: Rozkvetlá louka mezi Werthensteinem a Wolhusenem.
-  - date: "10 May 2025"
+  - date: "10.05.2025"
     length: 10.4
     elevation_gain: 222
     elevation_loss: 284
     from: Zurich
     to: Reppischhof
     images: []
-  - date: "17 May 2025"
+  - date: "17.05.2025"
     length: 16.5
     elevation_gain: 234
     elevation_loss: 244
@@ -330,14 +330,14 @@ hikes:
       row_span: 2
       description_en: Wooden statue in a forest between Bremgarten and Wohlen.
       description_cz: Dřevěná socha v lese mezi městy Bremgarten a Wohlen.
-  - date: "24 May 2025"
+  - date: "24.05.2025"
     length: 24.9
     elevation_gain: 466
     elevation_loss: 502
     from: Wohlen
     to: Aarau
     images: []
-  - date: "29 May 2025"
+  - date: "29.05.2025"
     length: 27.1
     elevation_gain: 761
     elevation_loss: 551
@@ -368,7 +368,7 @@ hikes:
       row_span: 2
       description_en: It's getting late - the side valleys are already in the shade.
       description_cz: Připozdívá se - postranní údolí už jsou ve stínu.
-  - date: "08 Jun 2025"
+  - date: "08.06.2025"
     length: 22.0
     elevation_gain: 1017
     elevation_loss: 813
@@ -405,7 +405,7 @@ hikes:
       row_span: 1
       description_en: Waiting for a train home in Urnäsch.
       description_cz: Čekání na vlak domů ve vesnici Urnäsch.
-  - date: "13 Jul 2025"
+  - date: "13.07.2025"
     length: 19.4
     elevation_gain: 1089
     elevation_loss: 1132
@@ -428,7 +428,7 @@ hikes:
       col_span: 2
       image_url: https://live.staticflickr.com/65535/55355696030_a3f6b502c6_k.jpg
       row_span: 1
-      description_en: Panoramic view towards the North from Spitzli. We see Urnäsch in the valley below and Kronberg on the right.
+      description_en: Panoramic view towards the north from Spitzli. We see Urnäsch in the valley below and Kronberg on the right.
       description_cz: Panorama ze Spitzli v severním směru. Dole v údolí vidíme Urnäsch a napravo vrchol Kronberg.
     - click_url: https://flic.kr/p/2sktqJG
       col_span: 1
@@ -440,7 +440,7 @@ hikes:
       col_span: 1
       image_url: https://live.staticflickr.com/65535/55355695935_3685abaa04_b.jpg
       row_span: 1
-      description_en: View to the North from the ridge East of Kronberg. Lake Constance at the border with Germany is visible in the far distance.
+      description_en: View to the north from the ridge east of Kronberg. Lake Constance at the border with Germany is visible in the far distance.
       description_cz: Pohled na sever z hřebenu na východ od Kronergu. Bodamské jezero na hranicích s Německem je vidět v dálce.
     - click_url: https://flic.kr/p/2skz4Rd
       col_span: 1
@@ -454,7 +454,7 @@ hikes:
       row_span: 1
       description_en: I'll be home very late anyway, so no harm in stopping at Scheidegg for dinner - Kalbsbratwurst with onion sauce and fries.
       description_cz: Stejně budu doma hodně pozdě, tak už neuškodí zastavit se v Scheideggu na večeři - Kalbsbratwurst s cibulovou omáčkou a hranolky.
-  - date: "23 Aug 2025"
+  - date: "23.08.2025"
     length: 21.9
     elevation_gain: 283
     elevation_loss: 635
@@ -473,7 +473,7 @@ hikes:
       row_span: 1
       description_en: The Austrian border on a bridge over the Rhine between Lienz and Bangs.
       description_cz: Rakouská hranice na mostě přes Rýn mezi vesnicemi Lienz a Bangs.
-  - date: "30 Aug 2025"
+  - date: "30.08.2025"
     length: 27.2
     elevation_gain: 805
     elevation_loss: 334
@@ -516,7 +516,7 @@ hikes:
       row_span: 2
       description_en: It is getting late. Looking down the Reuss valley, last rays of daylight illuminate the clouds above Chli Windgällen.
       description_cz: Připozdívá se. V pohledu dolů údolím řeky Reuss poslední denní paprsky ozařují mraky nad horou Chli Windgällen.
-  - date: "06 Sep 2025"
+  - date: "06.09.2025"
     length: 19.9
     elevation_gain: 826
     elevation_loss: 201
@@ -565,7 +565,7 @@ hikes:
       row_span: 1
       description_en: Northern slopes of the Urseren valley.
       description_cz: Severní svahy údolí Urseren.
-  - date: "13 Sep 2025"
+  - date: "13.09.2025"
     length: 28.9
     elevation_gain: 703
     elevation_loss: 686
@@ -584,7 +584,7 @@ hikes:
       row_span: 1
       description_en: The village of Oltingen seen from a mountain ridge while descending from the Schafmatt pass to the village of Anvil.
       description_cz: Vesnice Oltingen viděná z hřebenu při sestupu z průsmyku Schafmatt do vesnice Anvil.
-  - date: "18 Oct 2025"
+  - date: "18.10.2025"
     length: 24.9
     elevation_gain: 907
     elevation_loss: 631
@@ -615,21 +615,21 @@ hikes:
       row_span: 1
       description_en: The sun is almost down. I'm looking from the viewpoint Herrenberg back at the village of Nuglar shaded by the eastern edge of the Gempen plateau.
       description_cz: Slunce už téměř zapadlo. Dívám se z vyhlídky Herrenberg zpátky na obec Nuglar ve stínu východního okraje Gempenské plošiny (Gempenplateau).
-  - date: "08 Nov 2025"
+  - date: "08.11.2025"
     length: 15.3
     elevation_gain: 139
     elevation_loss: 439
     from: Gempen
     to: Flüh
     images: []
-  - date: "15 Nov 2025"
+  - date: "15.11.2025"
     length: 11.2
     elevation_gain: 63
     elevation_loss: 83
     from: Zurich
     to: Adliswil
     images: []
-  - date: "22 Nov 2025"
+  - date: "22.11.2025"
     length: 7.1
     elevation_gain: 36
     elevation_loss: 3
@@ -648,7 +648,7 @@ hikes:
       row_span: 1
       description_en: Information posters at the inlet of the Sihl overflow tunnel. In the event of flooding, it protects the lower-lying towns and the city of Zurich by diverting excess water into lake Zurich.
       description_cz: Informační plakáty u vpusti sihlské přetokové štoly. V případě vysoké vody chrání níže ležící města a Curych před záplavami tím, že odvede přebytečnou vodu do Curyšského jezera.
-  - date: "29 Nov 2025"
+  - date: "29.11.2025"
     length: 13.7
     elevation_gain: 428
     elevation_loss: 468
@@ -679,7 +679,7 @@ hikes:
       row_span: 1
       description_en: View of Baar, Zug and lake Zug from a field on the way down from Albishorn.
       description_cz: Pohled na Baar, Zug a Zugské jezero z pole po cestě dolů z Albishornu.
-  - date: "07 Feb 2026"
+  - date: "07.02.2026"
     length: 17.1
     elevation_gain: 589
     elevation_loss: 615
@@ -698,7 +698,7 @@ hikes:
       row_span: 1
       description_en: Main street of the town of Laufen with the upper gate (Obertor).
       description_cz: Hlavní ulice města Laufen s horní věží (Obertor).
-  - date: "28 Feb 2026"
+  - date: "28.02.2026"
     length: 21.8
     elevation_gain: 41
     elevation_loss: 13
@@ -723,7 +723,7 @@ hikes:
       row_span: 1
       description_en: An old covered wooden bridge over the Rhine forms the border between Liechtenstein and Switzerland at Sevelen.
       description_cz: Starý dřevěný krytý most přes Rýn představuje hranici mezi Lichtenštejnskem a Švýcarskem u obce Sevelen.
-  - date: "07 Mar 2026"
+  - date: "07.03.2026"
     length: 20.1
     elevation_gain: 640
     elevation_loss: 630
@@ -754,7 +754,7 @@ hikes:
       row_span: 1
       description_en: Low afternoon sun over lake Zug seen from above Walchwil.
       description_cz: Nízké odpolední slunce nad Zugským jezerem z výhledu nad městem Walchwil.
-  - date: "21 Mar 2026"
+  - date: "21.03.2026"
     length: 21.0
     elevation_gain: 407
     elevation_loss: 355
@@ -783,7 +783,7 @@ hikes:
       col_span: 1
       image_url: https://live.staticflickr.com/65535/55351473591_309db0e45f_b.jpg
       row_span: 1
-      description_en: Solitary trees on the slopes North of Maienfeld.
+      description_en: Solitary trees on the slopes north of Maienfeld.
       description_cz: Osamocené stromy na svahu severně od Maienfeldu.
     - click_url: https://flic.kr/p/2sk8Zie
       col_span: 1
@@ -797,14 +797,14 @@ hikes:
       row_span: 1
       description_en: Heidi and her animals welcoming tourists.
       description_cz: Heidi a její zvířata vítají turisty.
-  - date: "28 Mar 2026"
+  - date: "28.03.2026"
     length: 24.5
     elevation_gain: 247
     elevation_loss: 167
     from: Maienfeld
     to: Chur
     images: []
-  - date: "11 Apr 2026"
+  - date: "11.04.2026"
     length: 24.4
     elevation_gain: 998
     elevation_loss: 948
@@ -823,7 +823,7 @@ hikes:
       row_span: 1
       description_en: Paragliding launch site above the village of Bärschwil.
       description_cz: Startovací místo pro paragliding nad vesnicí Bärschwil.
-  - date: "18 Apr 2026"
+  - date: "18.04.2026"
     length: 13.8
     elevation_gain: 1113
     elevation_loss: 1055
@@ -860,7 +860,7 @@ hikes:
       row_span: 1
       description_en: Panoramic view of an alpine meadow near the top of Gnipen with a few remains of last winter's snow.
       description_cz: Panorama alpské louky pod vrcholem Gnipen se zbytky sněhu po minulé zimě.
-  - date: "25 Apr 2026"
+  - date: "25.04.2026"
     length: 29.0
     elevation_gain: 850
     elevation_loss: 919
@@ -877,7 +877,7 @@ hikes:
       col_span: 1
       image_url: https://live.staticflickr.com/65535/55349295389_afe8404324_b.jpg
       row_span: 1
-      description_en: A short distance further, looking West, we can see lake Luzern with the Pilatus massif in the background.
+      description_en: A short distance further, looking west, we can see lake Luzern with the Pilatus massif in the background.
       description_cz: O kousek dál po cestě je při pohledu na západ vidět Lucernské jezero a za ním masiv Pilatus.
     - click_url: https://flic.kr/p/2sjVHVu
       col_span: 1
@@ -889,9 +889,9 @@ hikes:
       col_span: 1
       image_url: https://live.staticflickr.com/65535/55349295394_7f43ee6597_b.jpg
       row_span: 1
-      description_en: View South over Küssnacht and the North-Eastern tip of Lake Luzern towards the Alps.
+      description_en: View south over Küssnacht and the north-eastern tip of Lake Luzern towards the Alps.
       description_cz: Výhled na jih přes Küssnacht a severovýchodní cíp Lucernského jezera k Alpám.
-  - date: "01 May 2026"
+  - date: "01.05.2026"
     length: 26.3
     elevation_gain: 753
     elevation_loss: 715
@@ -902,7 +902,7 @@ hikes:
       col_span: 1
       image_url: https://live.staticflickr.com/65535/55349220918_ab1ef0319a_b.jpg
       row_span: 1
-      description_en: View of lake Luzern from the West with Rigi in the background.
+      description_en: View of lake Luzern from the west with Rigi in the background.
       description_cz: Pohled na Lucernské jezero ze západu s horou Rigi v pozadí.
     - click_url: https://flic.kr/p/2sk1pZD
       col_span: 1
@@ -916,14 +916,14 @@ hikes:
       row_span: 1
       description_en: Fortifications on the southern side of Renggpass built during WWII.
       description_cz: Opevnění na severní straně průsmyku Renggpass postavené během druhé světové války.
-  - date: "09 May 2026"
+  - date: "09.05.2026"
     length: 27.3
     elevation_gain: 271
     elevation_loss: 243
     from: Kaiserstuhl
     to: Rheinau
     images: []
-  - date: "16 May 2026"
+  - date: "16.05.2026"
     length: 23.6
     elevation_gain: 1391
     elevation_loss: 661
@@ -954,7 +954,7 @@ hikes:
       row_span: 1
       description_en: Waiting for a train home at Langwies.
       description_cz: Čekání na vlak domů na zastávce Langwies.
-  - date: "23 May 2026"
+  - date: "23.05.2026"
     length: 16.0
     elevation_gain: 1120
     elevation_loss: 701
@@ -997,7 +997,7 @@ hikes:
       row_span: 1
       description_en: Nice view during a short snack break before heading back down.
       description_cz: Pěkný výhled při krátké přestávce na svačinu než vyrazím zpátky dolů.
-  - date: "20 Jun 2026"
+  - date: "20.06.2026"
     length: 21.2
     elevation_gain: 982
     elevation_loss: 1155
@@ -1008,7 +1008,7 @@ hikes:
       col_span: 1
       image_url: https://live.staticflickr.com/65535/55349051878_8e2496f287_b.jpg
       row_span: 1
-      description_en: View East along the upper Urseren valley.
+      description_en: View east along the upper Urseren valley.
       description_cz: Pohled na východ horní částí údolí Urseren.
     - click_url: https://flic.kr/p/2sk2G1o
       col_span: 1
@@ -1028,7 +1028,7 @@ hikes:
       row_span: 1
       description_en: Signpost in the Furka pass.
       description_cz: Ukazatel v průsmyku Furka.
-  - date: "11 Jul 2026"
+  - date: "11.07.2026"
     length: 22.2
     elevation_gain: 1048
     elevation_loss: 1706
@@ -1089,7 +1089,7 @@ hikes:
       row_span: 1
       description_en: Catching the last train home from Filisur.
       description_cz: Stíhám poslední vlak domů z Filisuru.
-  - date: "18 Jul 2026"
+  - date: "18.07.2026"
     length: 23.1
     elevation_gain: 949
     elevation_loss: 695
