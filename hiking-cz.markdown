@@ -37,20 +37,19 @@ permalink: /hiking/cz/
 </h3>
 
 <!-- 1. The Main Grid Container -->
-<div class="dynamic-gallery" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); grid-auto-rows: 250px; grid-gap: 15px; margin: 20px 0;">
+<div class="dynamic-gallery">
   {% for image in item.images %}
-  {% assign rows = image.row_span | default: 1 %}
-  {% assign cols = image.col_span | default: 1 %}
+    {% assign rows = image.row_span | default: 1 %}
+    {% assign cols = image.col_span | default: 1 %}
 
-  <div class="gallery-item" style="grid-column: span {{ cols }}; grid-row: span {{ rows }}; position: relative; margin-bottom: 0; transition: margin-bottom 0.2s ease;">
-    <a href="{{ image.click_url }}" target="_blank" rel="noopener" class="image-link" style="display: block; width: 100%; height: 100%;">
-      <img src="{{ image.image_url }}" alt="Hiking photo" style="width: 100%; height: 100%; object-fit: cover; display: block;">
-    </a>
-
-    <div class="gallery-caption" style="position: absolute; top: 100%; left: 0; right: 0; padding-top: 8px; font-size: 0.8em; line-height: 1.4;">
-      {{ image.description_cz }}
+    <div class="gallery-item span-cols-{{ cols }} span-rows-{{ rows }}">
+      <a href="{{ image.click_url }}" target="_blank" rel="noopener" class="image-link">
+        <img src="{{ image.image_url }}" alt="Hiking photo">
+      </a>
+      <div class="gallery-caption">
+        {{ image.description_cz }}
+      </div>
     </div>
-  </div>
   {% endfor %}
 </div>
 
