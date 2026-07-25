@@ -59,7 +59,7 @@ routes:
     map_filename: map_route_F
   - heading_en: To Liechtenstein and the Austrian border
     heading_cz: Do Lichtenštejnska a k rakouské hranici
-    length: 219.5
+    length: 239.0
     places:
     - name: Rapperswil
     - name: Wattwil
@@ -72,8 +72,9 @@ routes:
     - name: Langwies
     - name: Arosa
     - name: Filisur
-    description_en: Starting from Rapperswil following Via Jacobi to St. Gallenkappel and along the slopes of Tweralpspitz to Wattwil, then up the opposite side of the Thur valley to Sankt Peterzell. Then leaving Via Jacobi at Chäseren, crossing the Tüfenbach valley and following Appenzeller Weg over the hills to Urnäsch. Up to Spitzli and along the ridge to Kronberg and Scheidegg, then down to Appenzell. From here over the hill and down to the Rhine valley at Rüthi. Then following the Rhine upstream to the outskirts of Vaduz, Sevelen, Balzers and through the valley between Guschaspitz and Gir to Maienfeld. Through Malanz, Zizers and following the Rhine to Chur. Then along the southern slopes of the Plessur valley via Passugg and Tschiertschen to Langwies. Afterwards up to Arosa and further towards Valbella Furgga but turning back at Alteinsee due to snow and ending up in Arosa. Next time I set off up the Welschtobel valley over the Furcletta pass into the valley of the Albula river.
-    description_cz: Vyrážím z Rapperswilu po stezce Via Jacobi do St. Gallenkappel a po úbočí hory Tweralpspitz do Wattwilu, pak nahoru opačným svahem údolí řeky Thur do Sankt Peterzellu. V Chäseren opouštím Via Jacobi a přecházím údolí Tüfenbachu a po stezce Apenzeller Weg jdu přes kopce do vesnice Urnäsch. Na horu Spitzli a po hřebeni na Kronberg, Scheidegg a pak dolů do Appenzellu. Odtud přes kopec a dolů do údolí Rýna u vesnice Rüthi. Pak jdu proti směru Rýna, přes předměstí Vaduzu, přes Sevelen a Balzers a údolím mezi vrcholy Guschaspitz a Gir do Maienfeldu. Přes města Malanz, Zizers a podél Rýna do Churu. Pak jdu po jižních svazích údolí řeky Plessur přes Passugg a Tschiertschen do Langwiesu. Dále nahoru do Arosy a k průsmyku Valbella Furgga, ale u jezera Alteinsee se musím otočit kvůli sněhu a končím zpátky v Arose. Příště pak vyrážím údolím Welschtobel přes průsmyk Furcletta do údolí řeky Albula.
+    - name: Preda
+    description_en: Starting from Rapperswil following Via Jacobi to St. Gallenkappel and along the slopes of Tweralpspitz to Wattwil, then up the opposite side of the Thur valley to Sankt Peterzell. Then leaving Via Jacobi at Chäseren, crossing the Tüfenbach valley and following Appenzeller Weg over the hills to Urnäsch. Up to Spitzli and along the ridge to Kronberg and Scheidegg, then down to Appenzell. From here over the hill and down to the Rhine valley at Rüthi. Then following the Rhine upstream to the outskirts of Vaduz, Sevelen, Balzers and through the valley between Guschaspitz and Gir to Maienfeld. Through Malanz, Zizers and following the Rhine to Chur. Then along the southern slopes of the Plessur valley via Passugg and Tschiertschen to Langwies. Afterwards up to Arosa and further towards Valbella Furgga but turning back at Alteinsee due to snow and ending up in Arosa. Next time I set off up the Welschtobel valley over the Furcletta pass into the valley of the Albula river and following it upstream to Preda at the northern portal of the Albula railway tunnel.
+    description_cz: Vyrážím z Rapperswilu po stezce Via Jacobi do St. Gallenkappel a po úbočí hory Tweralpspitz do Wattwilu, pak nahoru opačným svahem údolí řeky Thur do Sankt Peterzellu. V Chäseren opouštím Via Jacobi a přecházím údolí Tüfenbachu a po stezce Apenzeller Weg jdu přes kopce do vesnice Urnäsch. Na horu Spitzli a po hřebeni na Kronberg, Scheidegg a pak dolů do Appenzellu. Odtud přes kopec a dolů do údolí Rýna u vesnice Rüthi. Pak jdu proti směru Rýna, přes předměstí Vaduzu, přes Sevelen a Balzers a údolím mezi vrcholy Guschaspitz a Gir do Maienfeldu. Přes města Malanz, Zizers a podél Rýna do Churu. Pak jdu po jižních svazích údolí řeky Plessur přes Passugg a Tschiertschen do Langwiesu. Dále nahoru do Arosy a k průsmyku Valbella Furgga, ale u jezera Alteinsee se musím otočit kvůli sněhu a končím zpátky v Arose. Příště pak vyrážím údolím Welschtobel přes průsmyk Furcletta do údolí řeky Albula a pak proti proudu do železniční stanice Preda u severního ústí tunelu Albula.
     map_filename: map_route_FL_A
   - heading_en: To Sarnersee
     heading_cz: K jezeru Sarnersee
@@ -1095,3 +1096,76 @@ hikes:
     elevation_loss: 695
     from: Delemont
     to: Court
+  - date: "25.07.2026"
+    length: 19.5
+    elevation_gain: 1048
+    elevation_loss: 337
+    from: Filisur
+    to: Preda
+    images:
+    - click_url: https://flic.kr/p/2srgxHo
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55419914276_500ccf01c4_b.jpg
+      row_span: 1
+      description_en: One of many pretty alpine houses in Filisur.
+      description_cz: Jeden z mnoha pěkných alpských domů ve Filisuru.
+    - click_url: https://flic.kr/p/2srht8C
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55420093974_06eb07abf9_z.jpg
+      row_span: 2
+      description_en: The first few kilometers of the hike aren't particularly beautiful, following directly under high voltage power lines.
+      description_cz: Prvních pár kilometrů túry není moc krásných - jdou přímo pod vedením vysokého napětí.
+    - click_url: https://flic.kr/p/2srbB2D
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55418949867_d45c0714d3_z.jpg
+      row_span: 2
+      description_en: Albula river with the gorge in the background though which it flows down from the plateau around Bergün. It drops down quite significatly - the plateau is roughly at the elevation of the road we see in the gorge's left wall.
+      description_cz: Řeka Albula v pozadí se soutěskou kterou stéká z plošiny kolem vesnice Bergün. Ztrácí tady výšku poměrně výrazně - plošina je zhruba ve výšce silnice, kterou vidíme v levé stěně soutěsky.
+    - click_url: https://flic.kr/p/2srgxF9
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55419914146_87fa88c264_b.jpg
+      row_span: 1
+      description_en: View up the winding path around the gorge to Bergün.
+      description_cz: Pohled vzhůru na klikatou stezku kolem soutěsky do Bergünu.
+    - click_url: https://flic.kr/p/2sriAaY
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55420312770_05dde77fe4_b.jpg
+      row_span: 1
+      description_en: The village of Bergün seen from a wooded slope above the gorge.
+      description_cz: Vesnice Bergün ze zalesněného svahu nad soutěskou.
+    - click_url: https://flic.kr/p/2srht4z
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55420093739_4aba390bd8_z.jpg
+      row_span: 2
+      description_en: One of the many viaducts allowing the Albula railway to wind its way from Bergün up to the portal of the Albula tunnel.
+      description_cz: Jeden z mnoha viaduktů umožňujících Albulské dráze vystoupat z Bergünu k portálu tunelu Albula.
+    - click_url: https://flic.kr/p/2srbAWJ
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55418949582_dcd3abf4e0_z.jpg
+      row_span: 2
+      description_en: An information board on the way up along the railway.
+      description_cz: Informační cedule na cestě nahoru podél železnice.
+    - click_url: https://flic.kr/p/2srbAXa
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55418949607_da29d43618_b.jpg
+      row_span: 1
+      description_en: Albula Viaduct II
+      description_cz: Albula Viadukt II
+    - click_url: https://flic.kr/p/2srbAXk
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55418949617_262faa9b10_b.jpg
+      row_span: 1
+      description_en: Albula Viaduct IV
+      description_cz: Albula Viadukt IV
+    - click_url: https://flic.kr/p/2sriA8i
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55420312615_369b92e214_z.jpg
+      row_span: 2
+      description_en: Albula winding lazily in the alpine meadows between Preda and the small settlement of Naz.
+      description_cz: Albula se líně vine skrz alpské louky mezi Predou a malou osadou Naz.
+    - click_url: https://flic.kr/p/2srht2v
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55420093619_62eba5065e_b.jpg
+      row_span: 1
+      description_en: Lake Lai da Palpuogna above Preda. Voted the most beautiful place in Switzerland in a 2007 TV programme survey.
+      description_cz: Jezero Lai da Palpuogna nad Predou. Zvoleno nejkrásnějším místem Švýcarska v anketě televizního pořadu v roce 2007.
