@@ -1,0 +1,56 @@
+name: Deploy Jekyll Site
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # Setup Python on the server ---
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip' # Speeds up future builds by caching downloads
+
+      # Install the libraries from requirements.txt ---
+      - name: Install Python Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # Explicitly configure the GitHub Pages setup parameters
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      # This compiles the site into the '_site' folder
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: .
+          destination: ./_site
+
+      # FORCE GitHub to save the '_site' directory so the deployment step can find it
+      - name: Upload Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./_site
+
+      # This publishes the uploaded artifact to the web
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
