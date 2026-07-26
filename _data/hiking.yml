@@ -1102,6 +1102,18 @@ hikes:
     elevation_loss: 337
     from: Filisur
     to: Preda
+    description_en: |
+      From Filisur, I follow the Albulabahn - a railway connecting Chur with St. Moritz. It winds its way up the valley of the Albula river, overcoming the steep gradient using a series of impressive viaducts and tunnels that allow the railway to zig-zag up the valley.
+
+      The hike passes by a gorge through which the Albula drops about 200 height meters from a plateau around the village of Bergün (or Bravuogn in the local Romansh language). The hiking path does not follow the road and the railway directly through the gorge but passes along the slopes above it. It then descends into Bergün around which the valley briefly widens into pretty alpine meadows.
+
+      Above the village, it narrows down again and the path closely follows the railway, offering nice views of the viaducts and tunnels. About 400 meters higher, it reaches a plateau with meadows through which the Albula peacefully meanders. Here also lies my destination for the day - the railway station of Preda (with a name apparently derived from the Latin "pratum" meaning "meadow") placed just in front of the Albula tunnel that connects the Albula valley with Upper Engadin around the town of St. Moritz. Before hopping on the train, I take a short detour to the picturesque lake Lai da Palpuogna above Preda. It was apparently voted the most beautiful place in Switzerland in a 2007 Swiss TV programme survey.
+    description_cz: |
+      Z Filisuru následuji Albulabahn - železnici spojující Chur se Svatým Mořicem. Vine se vzhůru údolím řeky Albula a překonává strmé stoupání pomocí řady impozantních viaduktů a tunelů, umožňujících železnici měnit směr po cestě úbočím.
+
+      Turistická stezka prochází kolem soutěsky, ve které Albula klesá o asi 200 výškových metrů z plošiny kolem vesnice Bergün (nebo Bravuogn v místním rétorománském jazyce). Stezka nasleduje silnici a železnici přímo soutěskou, ale prochází svahem kus nad ní. Pak sestupuje do Bergünu, kde se údolí na chvíli rozšiřuje do pěkných alpských louk.
+
+      Nad vesnicí se pak opět zužuje, stezka těsně sleduje železnici a nabízí krásné pohledy na viadukty a tunely. O asi 400 metrů výše dosahuje plošiny s loukami, přes které se Albula líně vine. Tady také leží cíl dnešní cesty - železniční stanice Preda (prý se jménem odvozeným z latinského "pratum", což znamená "louka") umístěná těsně před ústím tunelu Albula spojujícího údolí Albuly s Horním Engadinem kolem Svatého Mořice. Než nastoupím na vlak, udělám se ještě zacházku k obrázkově pěknému jezeru Lai di Palpuogna nad Predou. Prý bylo zvoleno nejkrásnějším místem Švýcarska v anketě televizního pořadu v roce 2007.
     images:
     - click_url: https://flic.kr/p/2srgxHo
       col_span: 1
@@ -1167,5 +1179,5 @@ hikes:
       col_span: 1
       image_url: https://live.staticflickr.com/65535/55420093619_62eba5065e_b.jpg
       row_span: 1
-      description_en: Lake Lai da Palpuogna above Preda. Voted the most beautiful place in Switzerland in a 2007 TV programme survey.
-      description_cz: Jezero Lai da Palpuogna nad Predou. Zvoleno nejkrásnějším místem Švýcarska v anketě televizního pořadu v roce 2007.
+      description_en: Lake Lai da Palpuogna above Preda.
+      description_cz: Jezero Lai da Palpuogna nad Predou.

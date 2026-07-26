@@ -30,11 +30,13 @@ permalink: /hiking/cz/
 
 ---
 
-{% for item in site.data.hiking.hikes %}
+{% for item in site.data.hiking.hikes reversed %}
 <h3> {{ item.from }} → {{ item.to }} ({{ item.date }}, {{ item.length }}km, ↑ {{ item.elevation_gain }}m, ↓ {{ item.elevation_loss }}m)
 <a id="{{ item.from | slugify }}-{{ item.to | slugify }}"></a>
 <span class="map-trigger" data-trail-path="/assets/maps/map_{{ item.from | slugify }}_{{ item.to | slugify }}.geojson">🗺️</span>
 </h3>
+
+{{ item.description_cz }}
 
 <!-- 1. The Main Grid Container -->
 <div class="dynamic-gallery">
