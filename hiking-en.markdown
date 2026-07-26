@@ -29,12 +29,16 @@ permalink: /hiking/en/
 {% endfor %}
 
 ---
+<br>
 
 {% for item in site.data.hiking.hikes reversed %}
+---
 <h3> {{ item.from }} → {{ item.to }} ({{ item.date }}, {{ item.length }}km, ↑ {{ item.elevation_gain }}m, ↓ {{ item.elevation_loss }}m)
 <a id="{{ item.from | slugify }}-{{ item.to | slugify }}"></a>
 <span class="map-trigger" data-trail-path="/assets/maps/map_{{ item.from | slugify }}_{{ item.to | slugify }}.geojson">🗺️</span>
 </h3>
+
+{% for i in (1..item.rating) %}⭐{% endfor %}
 
 {{ item.description_en }}
 
@@ -54,6 +58,7 @@ permalink: /hiking/en/
     </div>
   {% endfor %}
 </div>
+<br>
 
 {% endfor %}
 

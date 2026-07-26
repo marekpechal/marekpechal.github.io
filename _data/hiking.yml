@@ -99,27 +99,28 @@ hikes:
     elevation_loss: 342
     from: Zurich
     to: Otelfingen
-    images: []
+    rating: 2
   - date: "10.02.2024"
     length: 20.6
     elevation_gain: 533
     elevation_loss: 463
     from: Zurich
     to: Egg
-    images: []
+    rating: 2
   - date: "17.02.2024"
     length: 24.2
     elevation_gain: 635
     elevation_loss: 781
     from: Egg
     to: Pfaffikon
-    images: []
+    rating: 2
   - date: "09.03.2024"
     length: 13.5
     elevation_gain: 844
     elevation_loss: 424
     from: Pfaffikon
     to: Biberbrugg
+    rating: 2
     images:
     - click_url: https://flic.kr/p/2skYuQd
       col_span: 1
@@ -139,6 +140,7 @@ hikes:
     elevation_loss: 1085
     from: Otelfingen
     to: Kaiserstuhl
+    rating: 2
     images:
     - click_url: https://flic.kr/p/2sm1Eim
       col_span: 1
@@ -158,27 +160,28 @@ hikes:
     elevation_loss: 601
     from: Biberbrugg
     to: Sattel
-    images: []
+    rating: 2
   - date: "27.04.2024"
     length: 12.4
     elevation_gain: 250
     elevation_loss: 236
     from: Zurich
     to: Birmensdorf
-    images: []
+    rating: 1
   - date: "04.05.2024"
     length: 13.2
     elevation_gain: 197
     elevation_loss: 180
     from: Birmensdorf
     to: Affoltern am Albis
-    images: []
+    rating: 2
   - date: "18.05.2024"
     length: 14.6
     elevation_gain: 71
     elevation_loss: 153
     from: Affoltern am Albis
     to: Cham
+    rating: 2
     images:
     - click_url: https://flic.kr/p/2skYuNE
       col_span: 1
@@ -192,6 +195,7 @@ hikes:
     elevation_loss: 574
     from: Cham
     to: Ebikon
+    rating: 2
     images:
     - click_url: https://flic.kr/p/2skPVGM
       col_span: 1
@@ -211,6 +215,7 @@ hikes:
     elevation_loss: 510
     from: Sattel
     to: Brunnen
+    rating: 2
     images:
     - click_url: https://flic.kr/p/2skUGxp
       col_span: 1
@@ -230,6 +235,7 @@ hikes:
     elevation_loss: 630
     from: Brunnen
     to: Altdorf
+    rating: 3
     images:
     - click_url: https://flic.kr/p/2skWRKN
       col_span: 2
@@ -279,6 +285,7 @@ hikes:
     elevation_loss: 157
     from: Ebikon
     to: Wolhusen
+    rating: 1
     images:
     - click_url: https://flic.kr/p/2skVrzK
       col_span: 1
@@ -310,14 +317,14 @@ hikes:
     elevation_loss: 284
     from: Zurich
     to: Reppischhof
-    images: []
+    rating: 2
   - date: "17.05.2025"
     length: 16.5
     elevation_gain: 234
     elevation_loss: 244
     from: Reppischhof
     to: Wohlen
-    id: Reppischhof_Wohlen
+    rating: 2
     images:
     - click_url: https://flic.kr/p/2skVfik
       col_span: 1
@@ -337,6 +344,7 @@ hikes:
     elevation_loss: 502
     from: Wohlen
     to: Aarau
+    rating: 2
     images: []
   - date: "29.05.2025"
     length: 27.1
@@ -344,6 +352,7 @@ hikes:
     elevation_loss: 551
     from: Rapperswil
     to: Wattwil
+    rating: 2
     images:
     - click_url: https://flic.kr/p/2sktAw2
       col_span: 1
@@ -375,6 +384,7 @@ hikes:
     elevation_loss: 813
     from: Wattwil
     to: Urnäsch
+    rating: 3
     images:
     - click_url: https://flic.kr/p/2skyfCZ
       col_span: 1
@@ -412,6 +422,7 @@ hikes:
     elevation_loss: 1132
     from: Urnäsch
     to: Appenzell
+    rating: 3
     images:
     - click_url: https://flic.kr/p/2skzhtP
       col_span: 1
@@ -461,6 +472,7 @@ hikes:
     elevation_loss: 635
     from: Appenzell
     to: Rüthi
+    rating: 2
     images:
     - click_url: https://flic.kr/p/2skApNT
       col_span: 1
@@ -480,6 +492,7 @@ hikes:
     elevation_loss: 334
     from: Altdorf
     to: Wassen
+    rating: 2
     images:
     - click_url: https://flic.kr/p/2skyfvV
       col_span: 1
@@ -523,6 +536,7 @@ hikes:
     elevation_loss: 201
     from: Wassen
     to: Realp
+    rating: 2
     images:
     - click_url: https://flic.kr/p/2skqWPo
       col_span: 1
@@ -572,6 +586,7 @@ hikes:
     elevation_loss: 686
     from: Aarau
     to: Gelterkinden
+    rating: 3
     images:
     - click_url: https://flic.kr/p/2skqWKF
       col_span: 1
@@ -591,6 +606,7 @@ hikes:
     elevation_loss: 631
     from: Gelterkinden
     to: Gempen
+    rating: 2
     images:
     - click_url: https://flic.kr/p/2skrdqQ
       col_span: 1
@@ -622,6 +638,7 @@ hikes:
     elevation_loss: 439
     from: Gempen
     to: Flüh
+    rating: 1
     images: []
   - date: "15.11.2025"
     length: 11.2
@@ -629,6 +646,7 @@ hikes:
     elevation_loss: 83
     from: Zurich
     to: Adliswil
+    rating: 1
     images: []
   - date: "22.11.2025"
     length: 7.1
@@ -636,6 +654,7 @@ hikes:
     elevation_loss: 3
     from: Adliswil
     to: Sihlwald
+    rating: 1
     images:
     - click_url: https://flic.kr/p/2skqmsx
       col_span: 1
@@ -655,6 +674,7 @@ hikes:
     elevation_loss: 468
     from: Sihlwald
     to: Baar
+    rating: 2
     images:
     - click_url: https://flic.kr/p/2skprCc
       col_span: 1
@@ -686,6 +706,7 @@ hikes:
     elevation_loss: 615
     from: Flüh
     to: Laufen
+    rating: 2
     images:
     - click_url: https://flic.kr/p/2skrzV9
       col_span: 1
@@ -705,6 +726,7 @@ hikes:
     elevation_loss: 13
     from: Rüthi
     to: Sevelen
+    rating: 1
     images:
     - click_url: https://flic.kr/p/2skprzX
       col_span: 1
@@ -730,6 +752,7 @@ hikes:
     elevation_loss: 630
     from: Baar
     to: Walchwil
+    rating: 2
     images:
     - click_url: https://flic.kr/p/2sk8ZmA
       col_span: 1
@@ -761,6 +784,7 @@ hikes:
     elevation_loss: 355
     from: Sevelen
     to: Maienfeld
+    rating: 2
     images:
     - click_url: https://flic.kr/p/2skeShA
       col_span: 1
@@ -804,13 +828,14 @@ hikes:
     elevation_loss: 167
     from: Maienfeld
     to: Chur
-    images: []
+    rating: 1
   - date: "11.04.2026"
     length: 24.4
     elevation_gain: 998
     elevation_loss: 948
     from: Laufen
     to: Delemont
+    rating: 2
     images:
     - click_url: https://flic.kr/p/2skeSdn
       col_span: 1
@@ -830,6 +855,7 @@ hikes:
     elevation_loss: 1055
     from: Walchwil
     to: Goldau
+    rating: 3
     images:
     - click_url: https://flic.kr/p/2sk2AwW
       col_span: 1
@@ -867,6 +893,7 @@ hikes:
     elevation_loss: 919
     from: Goldau
     to: Luzern
+    rating: 2
     images:
     - click_url: https://flic.kr/p/2sk3Dup
       col_span: 1
@@ -898,6 +925,7 @@ hikes:
     elevation_loss: 715
     from: Luzern
     to: Sarnen
+    rating: 2
     images:
     - click_url: https://flic.kr/p/2sk2e3o
       col_span: 1
@@ -930,6 +958,7 @@ hikes:
     elevation_loss: 661
     from: Chur
     to: Langwies
+    rating: 3
     images:
     - click_url: https://flic.kr/p/2sk3nHj
       col_span: 1
@@ -961,6 +990,7 @@ hikes:
     elevation_loss: 701
     from: Langwies
     to: Arosa
+    rating: 2
     images:
     - click_url: https://flic.kr/p/2sk2biw
       col_span: 1
@@ -1004,6 +1034,7 @@ hikes:
     elevation_loss: 1155
     from: Realp
     to: Oberwald
+    rating: 2
     images:
     - click_url: https://flic.kr/p/2sk1mMU
       col_span: 1
@@ -1035,6 +1066,7 @@ hikes:
     elevation_loss: 1706
     from: Arosa
     to: Filisur
+    rating: 3
     images:
     - click_url: https://flic.kr/p/2sotYtr
       col_span: 1
@@ -1096,12 +1128,14 @@ hikes:
     elevation_loss: 695
     from: Delemont
     to: Court
+    rating: 2
   - date: "25.07.2026"
     length: 19.5
     elevation_gain: 1048
     elevation_loss: 337
     from: Filisur
     to: Preda
+    rating: 3
     description_en: |
       From Filisur, I follow the Albulabahn - a railway connecting Chur with St. Moritz. It winds its way up the valley of the Albula river, overcoming the steep gradient using a series of impressive viaducts and tunnels that allow the railway to zig-zag up the valley.
 
