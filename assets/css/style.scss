@@ -8,6 +8,30 @@
   background-color: #fff; /* Crucial: stops underlying content from bleeding through */
 }
 
+.section-summary {
+  display: list-item;
+  cursor: pointer;
+  line-height: 2rem;
+  outline: none; /* Removes the default focus ring if desired */
+}
+
+/* Target any details tag that is nested inside an open details tag */
+details[open] > details {
+  margin-left: 24px; /* Increases indentation by 24px for every level down */
+  margin-top: 0.75rem; /* Adds visual breathing room between nested layers */
+}
+
+/* Target ONLY the native arrow marker for color changes */
+.section-summary::marker {
+  color: #0066cc; /* Your link color */
+  vertical-align: middle;
+}
+
+/* Webkit fallback to guarantee Chrome/Safari compliance */
+.section-summary::-webkit-details-marker {
+  color: #0066cc;
+}
+
 .dynamic-gallery {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));

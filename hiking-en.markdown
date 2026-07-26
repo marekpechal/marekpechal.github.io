@@ -8,28 +8,39 @@ permalink: /hiking/en/
 
 <h1>Hiking</h1>
 
-{% for route in site.data.hiking.routes %}
-<h2>
-{{ route.heading_en }}
-</h2>
-<strong>
-  {%- for place in route.places -%}
-    {{ place.name }}
-    {% unless forloop.last %}
-      {%- assign next_index = forloop.index0 | plus: 1 -%}
-      {%- assign next_place = route.places[next_index] -%}
-      <a href="#{{ place.name | slugify }}-{{ next_place.name | slugify }}">➔</a>
-    {% endunless %}
-  {%- endfor -%}
-</strong>
-({{ route.length }} km)
-<p>{{ route.description_en }}</p>
-{% capture full_geojson_path %}/assets/maps/{{ route.map_filename }}.geojson{% endcapture %}
-{% include vector_map.html id=route.map_filename file=full_geojson_path color="#0080ff" height="300px" %}
-{% endfor %}
-
----
-<br>
+<details class="level-1">
+  <summary class="section-summary">
+    <span style="font-size: 1.5rem; vertical-align: middle; margin-left: 5px;">
+    List of routes
+    </span>
+  </summary>
+  <br>
+  {% for route in site.data.hiking.routes %}
+  <h3>
+  {{ route.heading_en }}
+  </h3>
+  <details class="level-2">
+  <summary class="section-summary">
+    <strong>
+      {%- for place in route.places -%}
+        {{ place.name }}
+        {% unless forloop.last %}
+          {%- assign next_index = forloop.index0 | plus: 1 -%}
+          {%- assign next_place = route.places[next_index] -%}
+          <a href="#{{ place.name | slugify }}-{{ next_place.name | slugify }}">➔</a>
+        {% endunless %}
+      {%- endfor -%}
+    </strong>
+    ({{ route.length }} km)
+  </summary>
+  <p>{{ route.description_en }}</p>
+  {% capture full_geojson_path %}/assets/maps/{{ route.map_filename }}.geojson{% endcapture %}
+  {% include vector_map.html id=route.map_filename file=full_geojson_path color="#0080ff" height="300px" %}
+  </details>
+  <br>
+  {% endfor %}
+</details>
+<br><br>
 
 {% for item in site.data.hiking.hikes reversed %}
 ---
