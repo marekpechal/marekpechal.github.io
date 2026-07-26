@@ -34,6 +34,10 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      # Execute custom script ---
+      - name: Run Plot Generation Script
+        run: python .github/scripts/generate_hiking_statistics_plots.py
+
       # Explicitly configure the GitHub Pages setup parameters
       - name: Setup Pages
         uses: actions/configure-pages@v5

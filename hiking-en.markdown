@@ -11,6 +11,15 @@ permalink: /hiking/en/
 <details class="level-1">
   <summary class="section-summary">
     <span style="font-size: 1.5rem; vertical-align: middle; margin-left: 5px;">
+    Statistics
+    </span>
+  </summary>
+  <img src="{{ '/assets/images/hiking_statistics_individual_en.png' | relative_url }}" alt="Hiking statistics" style="max-width: 100%; height: auto; display: block; margin: 1rem 0;">
+</details>
+
+<details class="level-1">
+  <summary class="section-summary">
+    <span style="font-size: 1.5rem; vertical-align: middle; margin-left: 5px;">
     List of routes
     </span>
   </summary>

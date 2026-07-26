@@ -11,6 +11,15 @@ permalink: /hiking/cz/
 <details class="level-1">
   <summary class="section-summary">
     <span style="font-size: 1.5rem; vertical-align: middle; margin-left: 5px;">
+    Statistika
+    </span>
+  </summary>
+  <img src="{{ '/assets/images/hiking_statistics_individual_cz.png' | relative_url }}" alt="Hiking statistics" style="max-width: 100%; height: auto; display: block; margin: 1rem 0;">
+</details>
+
+<details class="level-1">
+  <summary class="section-summary">
+    <span style="font-size: 1.5rem; vertical-align: middle; margin-left: 5px;">
     Seznam tras
     </span>
   </summary>
