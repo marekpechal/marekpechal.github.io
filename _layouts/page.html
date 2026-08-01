@@ -28,7 +28,7 @@ layout: default
   let currentModalMap = null;
 
   function buildVectorMap(containerId, geojsonPath, lineColor = '#d9381e') {
-      const mapStyleUrl = 'https://api.maptiler.com/maps/outdoor-v2/style.json?key=NPlRMxy1uYH9gIiVYt3P';
+      const mapStyleUrl = 'https://api.maptiler.com/maps/outdoor-v4/style.json?key=NPlRMxy1uYH9gIiVYt3P';
 
       return fetch(geojsonPath)
           .then(response => response.json())
@@ -55,7 +55,7 @@ layout: default
                       type: 'line',
                       source: `src-${containerId}`,
                       paint: {
-                          'line-color': lineColor,
+                          'line-color': ['coalesce', ['get', 'stroke'], lineColor],
                           'line-width': 4
                       }
                   });

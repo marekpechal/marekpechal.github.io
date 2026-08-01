@@ -8,6 +8,8 @@ permalink: /hiking/cz/
 
 <h1>Turistika</h1>
 
+{% include vector_map.html id="map_all" file="/assets/maps/combined/map_all.geojson" color="#0080ff" height="300px" %}
+
 <details class="level-1">
   <summary class="section-summary">
     <span style="font-size: 1.5rem; vertical-align: middle; margin-left: 5px;">
