@@ -4402,7 +4402,16 @@
           [
             8.387445,
             47.455052
-          ],
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
           [
             8.388914,
             47.456688
@@ -10650,7 +10659,16 @@
           [
             8.418553,
             47.566645
-          ],
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
           [
             8.418723,
             47.566576
@@ -15818,7 +15836,16 @@
           [
             8.60021,
             47.638467
-          ],
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
           [
             8.600354,
             47.638249
