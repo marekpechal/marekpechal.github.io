@@ -43,7 +43,7 @@ permalink: /hiking/en/
     ({{ route.length }} km)
   </summary>
   <p>{{ route.description_en }}</p>
-  {% capture full_geojson_path %}/assets/maps/{{ route.map_filename }}.geojson{% endcapture %}
+  {% capture full_geojson_path %}/assets/maps/combined/{{ route.map_filename }}.geojson{% endcapture %}
   {% include vector_map.html id=route.map_filename file=full_geojson_path color="#0080ff" height="300px" %}
   </details>
   <br>

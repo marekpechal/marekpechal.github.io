@@ -1,14 +1,15 @@
 routes:
   - heading_en: To the German border
     heading_cz: K německé hranici
-    length: 65.7
+    length: 81.2
     places:
     - name: Zurich
     - name: Otelfingen
     - name: Kaiserstuhl
     - name: Rheinau
-    description_en: Starting off via Höngg to the Furttal, then crossing Lägern and Wehntal to enter Eggwald and reach the Rhine and the German border at Kaiserstuhl. Afterwards, following the Rhine upstream, cutting across the bend at Buchberg, crossing back to the left bank and continuing there to Rheinau.
-    description_cz: Vyrážím přes Höngg do údolí Furttal, pak přes horský hřeben Lägern a údolí Wehntal do lesa Eggwald. Dostávám se k Rýnu a německé hranici v Kaiserstuhlu. Pak pokračuji proti proudu Rýna, zkracuji si to přes záhyb řeky u Buchbergu, přecházím zpět na levý břeh a tam pokračuji do Rheinau.
+    - name: Schaffhausen
+    description_en: Starting off via Höngg to the Furttal, then crossing Lägern and Wehntal to enter Eggwald and reach the Rhine and the German border at Kaiserstuhl. Afterwards, following the Rhine upstream, cutting across the bend at Buchberg, crossing back to the left bank and continuing there to Rheinau and to Schaffhausen past the Rhine Falls.
+    description_cz: Vyrážím přes Höngg do údolí Furttal, pak přes horský hřeben Lägern a údolí Wehntal do lesa Eggwald. Dostávám se k Rýnu a německé hranici v Kaiserstuhlu. Pak pokračuji proti proudu Rýna, zkracuji si to přes záhyb řeky u Buchbergu, přecházím zpět na levý břeh a tam pokračuji do Rheinau a pak do Schaffhausenu kolem Rýnských vodopádů.
     map_filename: map_route_D
   - heading_en: To the Italian border
     heading_cz: K italské hranici
@@ -1215,3 +1216,53 @@ hikes:
       row_span: 1
       description_en: Lake Lai da Palpuogna above Preda.
       description_cz: Jezero Lai da Palpuogna nad Predou.
+  - date: "01.08.2026"
+    length: 15.5
+    elevation_gain: 117
+    elevation_loss: 105
+    from: Rheinau
+    to: Schaffhausen
+    rating: 2
+    description_en: |
+      It is the 1st of August - the Swiss National Day - and I expect many people will be heading South to the mountains to celebrate. So instead of taking a crowded train to continue with a hike around the Albula pass, I stay in the low-lands and go for a hike along the Rhine. I also keep it short today because it's rather hot.
+
+      I pick up my route towards the German border in Rheinau - a small town nestled on a hill inside a bend of the Rhine, almost completely surrounded by Germany. The town is also the location of a rather pretty monastery on an island in the river. From there, I follow the left bank of the river through a rather monotonous forest. When I get closer to the towns of Laufen and Neuhausen, I come across quite a few very tempting public bathing places in the river and people using the opportunity to cool down in this hot weather.
+
+      I then walk past the impressive Rhine Falls, whose surroundings are unfortunately also quite crowded with tourists, and a few kilometers farther to the city of Schaffhausen where today's hike ends with a walk through the pretty historical city center.
+    description_cz: |
+      Je 1. srpna - švýcarský národní den - a čekám, že hodně lidí pojede na jih do hor oslavovat. Místo toho, abych jel přeplněným vlakem pokračovat v okolí průsmyku Albula, zůstanu dnes v nížině a půjdu se projít kolem Rýna. Také to dnes bude trochu kratší, protože máme docela horko.
+
+      Navážu na svou cestu k německým hranicím v Rheinau - malém městě zastrčeném na kopci v ohybu Rýna a téměř úplně obklopeném Německem. V tomto městě se také nachází docela pěkný klášter na říčním ostrově. Odtud jdu po levém břehu řeky poměrně jednotvárným lesem. Když se blížím k městům Laufen a Neuhausen, narážím u řeky na řadu velmi lákavých veřejných koupališť a lidí, využívajících možnost se v tomhle horkém počasí ochladit.
+
+      Dále pak jdu kolem impozatních Rýnských vodopádů, jejichž okolí se ale bohužel hemží turisty, a o pár kilometrů dál do města Schaffhausen, kde dnešní túra končí procházkou po pěkném historickém centru.
+    images:
+    - click_url: https://flic.kr/p/2ssA2My
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55434837222_646093cc2f_b.jpg
+      row_span: 1
+      description_en: A small square at a bridge leading to the island with the monastery.
+      description_cz: Malé náměstí u mostu vedoucího na ostrov s klášterem.
+    - click_url: https://flic.kr/p/2ssFTyK
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55435980239_305b4a9dac_z.jpg
+      row_span: 2
+      description_en: The church of the monastery in Rheinau.
+      description_cz: Klášterní kostel v Rheinau.
+    - click_url: https://flic.kr/p/2ssFyrA
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55435915908_084497361b_b.jpg
+      row_span: 1
+      description_en: The Rhine Falls and above them Castle Laufen.
+      description_cz: Rýnské vodopády a nad nimi zámek Laufen.
+    - click_url: https://flic.kr/p/2ssH2dX
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55436201115_eabefc5840_z.jpg
+      row_span: 2
+      description_en: Another view of the falls and the castle.
+      description_cz: Další pohled na vodopády a zámek.
+    - click_url: https://flic.kr/p/2ssA2LB
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55434837167_decc116afe_z.jpg
+      row_span: 2
+      description_en: One of the old decorated houses in the historical center of Schaffhausen (built 1492).
+      description_cz: Jeden ze starých zdobených domů v historickém centru Schaffhausenu (postaven 1492).
