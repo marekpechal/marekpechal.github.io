@@ -38,6 +38,10 @@ jobs:
       - name: Run Plot Generation Script
         run: python .github/scripts/generate_hiking_statistics_plots.py
 
+      # Execute custom script ---
+      - name: Run script to generate combined geojson files for routes
+        run: python .github/scripts/generate_combined_geojson.py
+
       # Explicitly configure the GitHub Pages setup parameters
       - name: Setup Pages
         uses: actions/configure-pages@v5
