@@ -15,6 +15,7 @@ permalink: /hiking/cz/
     </span>
   </summary>
   <img src="{{ '/assets/images/hiking_statistics_individual_cz.png' | relative_url }}" alt="Hiking statistics" style="max-width: 100%; height: auto; display: block; margin: 1rem 0;">
+  <img src="{{ '/assets/images/hiking_statistics_cumulative_cz.png' | relative_url }}" alt="Hiking statistics" style="max-width: 100%; height: auto; display: block; margin: 1rem 0;">
 </details>
 
 <details class="level-1">
