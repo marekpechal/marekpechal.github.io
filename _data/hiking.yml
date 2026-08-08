@@ -60,7 +60,7 @@ routes:
     map_filename: map_route_F
   - heading_en: To Liechtenstein and the Austrian border
     heading_cz: Do Lichtenštejnska a k rakouské hranici
-    length: 239.0
+    length: 255.8
     places:
     - name: Rapperswil
     - name: Wattwil
@@ -74,8 +74,9 @@ routes:
     - name: Arosa
     - name: Filisur
     - name: Preda
-    description_en: Starting from Rapperswil following Via Jacobi to St. Gallenkappel and along the slopes of Tweralpspitz to Wattwil, then up the opposite side of the Thur valley to Sankt Peterzell. Then leaving Via Jacobi at Chäseren, crossing the Tüfenbach valley and following Appenzeller Weg over the hills to Urnäsch. Up to Spitzli and along the ridge to Kronberg and Scheidegg, then down to Appenzell. From here over the hill and down to the Rhine valley at Rüthi. Then following the Rhine upstream to the outskirts of Vaduz, Sevelen, Balzers and through the valley between Guschaspitz and Gir to Maienfeld. Through Malanz, Zizers and following the Rhine to Chur. Then along the southern slopes of the Plessur valley via Passugg and Tschiertschen to Langwies. Afterwards up to Arosa and further towards Valbella Furgga but turning back at Alteinsee due to snow and ending up in Arosa. Next time I set off up the Welschtobel valley over the Furcletta pass into the valley of the Albula river and following it upstream to Preda at the northern portal of the Albula railway tunnel.
-    description_cz: Vyrážím z Rapperswilu po stezce Via Jacobi do St. Gallenkappel a po úbočí hory Tweralpspitz do Wattwilu, pak nahoru opačným svahem údolí řeky Thur do Sankt Peterzellu. V Chäseren opouštím Via Jacobi a přecházím údolí Tüfenbachu a po stezce Apenzeller Weg jdu přes kopce do vesnice Urnäsch. Na horu Spitzli a po hřebeni na Kronberg, Scheidegg a pak dolů do Appenzellu. Odtud přes kopec a dolů do údolí Rýna u vesnice Rüthi. Pak jdu proti směru Rýna, přes předměstí Vaduzu, přes Sevelen a Balzers a údolím mezi vrcholy Guschaspitz a Gir do Maienfeldu. Přes města Malanz, Zizers a podél Rýna do Churu. Pak jdu po jižních svazích údolí řeky Plessur přes Passugg a Tschiertschen do Langwiesu. Dále nahoru do Arosy a k průsmyku Valbella Furgga, ale u jezera Alteinsee se musím otočit kvůli sněhu a končím zpátky v Arose. Příště pak vyrážím údolím Welschtobel přes průsmyk Furcletta do údolí řeky Albula a pak proti proudu do železniční stanice Preda u severního ústí tunelu Albula.
+    - name: Bever
+    description_en: Starting from Rapperswil following Via Jacobi to St. Gallenkappel and along the slopes of Tweralpspitz to Wattwil, then up the opposite side of the Thur valley to Sankt Peterzell. Then leaving Via Jacobi at Chäseren, crossing the Tüfenbach valley and following Appenzeller Weg over the hills to Urnäsch. Up to Spitzli and along the ridge to Kronberg and Scheidegg, then down to Appenzell. From here over the hill and down to the Rhine valley at Rüthi. Then following the Rhine upstream to the outskirts of Vaduz, Sevelen, Balzers and through the valley between Guschaspitz and Gir to Maienfeld. Through Malanz, Zizers and following the Rhine to Chur. Then along the southern slopes of the Plessur valley via Passugg and Tschiertschen to Langwies. Afterwards up to Arosa and further towards Valbella Furgga but turning back at Alteinsee due to snow and ending up in Arosa. Next time I set off up the Welschtobel valley over the Furcletta pass into the valley of the Albula river and following it upstream to Preda at the northern portal of the Albula railway tunnel, then over the Fuorcla Crap Alv pass down to the Beverin valley and along the river down to Bever in Engadin.
+    description_cz: Vyrážím z Rapperswilu po stezce Via Jacobi do St. Gallenkappel a po úbočí hory Tweralpspitz do Wattwilu, pak nahoru opačným svahem údolí řeky Thur do Sankt Peterzellu. V Chäseren opouštím Via Jacobi a přecházím údolí Tüfenbachu a po stezce Apenzeller Weg jdu přes kopce do vesnice Urnäsch. Na horu Spitzli a po hřebeni na Kronberg, Scheidegg a pak dolů do Appenzellu. Odtud přes kopec a dolů do údolí Rýna u vesnice Rüthi. Pak jdu proti směru Rýna, přes předměstí Vaduzu, přes Sevelen a Balzers a údolím mezi vrcholy Guschaspitz a Gir do Maienfeldu. Přes města Malanz, Zizers a podél Rýna do Churu. Pak jdu po jižních svazích údolí řeky Plessur přes Passugg a Tschiertschen do Langwiesu. Dále nahoru do Arosy a k průsmyku Valbella Furgga, ale u jezera Alteinsee se musím otočit kvůli sněhu a končím zpátky v Arose. Příště pak vyrážím údolím Welschtobel přes průsmyk Furcletta do údolí řeky Albula a pak proti proudu do železniční stanice Preda u severního ústí tunelu Albula, pak přes průsmyk Fourcla Crap Alv dolů do údolí řeky Beverin a po jejím proudu do obce Bever v Engadinu.
     map_filename: map_route_FL_A
   - heading_en: To Sarnersee
     heading_cz: K jezeru Sarnersee
@@ -1270,3 +1271,34 @@ hikes:
       row_span: 2
       description_en: One of the old decorated houses in the historical center of Schaffhausen (built 1492).
       description_cz: Jeden ze starých zdobených domů v historickém centru Schaffhausenu (postaven 1492).
+  - date: "08.08.2026"
+    length: 16.7
+    elevation_gain: 741
+    elevation_loss: 821
+    from: Preda
+    to: Bever
+    rating: 3
+    description_en: |
+      I continue from Preda, a station of the Albulabahn, upwards following the valley and the road towards the Albula pass. I first walk to the lake Lai di Palpuogna again and skirt around it. I encounter many tourists on its banks - a bit surprising since there was almost nobody when I came here last time - though this may have been because back then I was here around 8pm. 
+
+      Before I reach the Albula pass, I take a path that leaves the main valley and ascends up one of its slopes towards a much smaller pass called Fuorcla Crap Alv. There are surprisingly many hikers on the first part of it but it seems most of them are heading to a small but very pretty lake on a plateau half-way up - seems to be a good place for a picnic. The upper part of the path to the pass is much less busy - I meet only two people with a dog going the opposite way.
+
+      While taking a short break, I find quite a lot of blueberries right next to the path. As far as I can tell, there are three rather different kinds growing in this area. The type I recognize from Czech forests by their leaves but with significantly smaller berries, another one with small and much darker berries and unfamiliar, moss-like leaves, and a third with big pale grey-blue berries similar to the ones sold in grocery stores. They all taste nice and quite distinct.
+
+      The Fuorcla Crap Alv is definitely one of the passes with the biggest potential to cause a wow when one reaches the top and suddenly sees the view on the other side. On the southern side is the deep valley of the Beverin river and the pass offers a magnificent view of the river making its way down and of the imposing Piz Ot mountain on the other side.
+
+      I then descend down the steep rocky slope all the way to the valley floor and follow the river downstream. I can't resist stopping for a moment and dipping my feet (but only very briefly - the water is COLD). Then I continue towards Spinas - the station at the other portal of the Albula tunnel, opposite Preda. On the way, I find some raspberries beside the path and decide to extend today's local berry-tasting session.
+
+      I originally planned to cut across another pass and reach Celerina in the Engadin valley that way but this would be a lot of additional elevation and I would only manage to catch a train after 9pm. I'm quite fortunate to check the schedule at this point and realize that the faster train stop running earlier than I expected (I believed there would still be one between 9 and 10pm) and I'd need to spend 3.5 hours traveling to Zurich. With a sigh I change my plan and choose the fast route to Bever in the Engadin valley along the river.
+    description_cz: |
+      Pokračuji z Predy, stanice dráhy Albulabahn, nahoru údolím a podél cesty k průsmyku Albulapass. Nejdříve dojdu znovu k jezeru Lai da Palpuogna a procházím po jeho břehu. Potkávám tady hodně turistů - trochu překvapivé, protože když jsem tady byl poprvé, skoro nikdo tady nebyl - ale možná to bylo tím, že jsem tu tehdy byl v osm večer.
+
+      Než dojdu k průsmyku Albulapass, odbočím na stezku, která se odklání od hlavního údolí a stoupá jeho svahem k mnohem menšímu průsmyku zvanému Fuorcla Crap Alv. Na první části stezky je opět překvapivě mnoho turistů, ale zdá se, že většina z nich míří k malému, ale velmi pěknému jezeru na plošině asi v polovině výstupu - vypadá jako dobré místo pro piknik. V druhé půlce výstupu je lidí mnohem méně - potkávám jen jeden pár se psem jdoucí opačným směrem.
+
+      Při krátké přestávce nacházím u pěšiny úrodu borůvek. Zdá se mi, že tady rostou tři různé druhy. Druh, který poznávám z českých lesů podle listů, ale s o dost menšími bobulemi, jiný druh s malými, mnohem tmavšími borůvkami a nepovědomými, mechu podobnými listy, a třetí s velkými, šedomodrými bobulemi podobnými těm, které se prodávají v obchodě. Všechny chutnají dobře a každý druh dost odlišně.
+
+      Fuorcla Crap Alv je rozhodně jeden z průsmyků s největším potenciálem člověka ohromit, když vyjde na vrchol a najednou uvidí, co je na druhé straně. Na jižní straně je hluboké údolí řeky Beverin a průsmyk poskytuje úžasný výhled na řeku vinoucí se údolím dolů a na impozantní horu Piz Ot na druhé straně.
+
+      Pak sejdu dolů strmým kamenitým svahem až na dno údolí a dále po proudu řeky. Nemůžu odolat krátkému zastavení a smočení nohou (ale jen krátce - voda je STUDENÁ) a pak pokračuji do osady Spinas - stanice u druhého portálu tunelu Albula, naproti zastávce Preda. Po cestě nacházím u stezky maliny a pokračuji v dnešní ochutnávce místních bobulí.
+
+      Původně jsem plánoval překročit další průsmyk a dojít tou cestou do Celeriny v údolí Engadin, ale to by bylo dost dalšího převýšení a asi bych stihl vlak až po deváté večer. Mám štěstí, že náhodou zkontroluji jízdní řád a zjistím, že rychlé vlaky přestávají jezdit dříve, než jsem čekal (myslel jsem, že mezi osmou a devátou by ještě nějaký jel), a musel bych cestou do Curychu strávit tři a půl hodiny. S povzdechem měním plán a volím rychlejší cestu do obce Bever v Engadinu podél řeky.
