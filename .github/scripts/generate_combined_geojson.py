@@ -28,10 +28,17 @@ def export_geojson(filename, line_string_list):
                     "type": "LineString",
                     "coordinates": line_string["coordinates"]
                 }
-            }
-        for line_string in line_string_list]
-        + [{"type": "Feature", "properties": {"name": f"Highest point ({int(highest_point[2])}m)"}, "geometry": {"type": "Point", "coordinates": highest_point}}]
-        + [{"type": "Feature", "properties": {"name": f"Lowest point ({int(lowest_point[2])}m)"}, "geometry": {"type": "Point", "coordinates": lowest_point}}]
+            } for line_string in line_string_list]
+        + [{
+            "type": "Feature",
+            "properties": {"name": f"Highest point ({int(highest_point[2])}m)"},
+            "geometry": {"type": "Point", "coordinates": highest_point}
+            }]
+        + [{
+            "type": "Feature",
+            "properties": {"name": f"Lowest point ({int(lowest_point[2])}m)"},
+            "geometry": {"type": "Point", "coordinates": lowest_point}
+            }]
     }
 
     with open(filename, "w", encoding="utf-8") as f:
