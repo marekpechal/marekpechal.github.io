@@ -10,6 +10,12 @@ colors = [
 
 def export_geojson(filename, line_string_list):
 
+    all_points = [pt for line_string in line_string_list
+        for pt in line_string["coordinates"]]
+    all_points_sorted_by_ele = sorted(all_points, key=lambda pt: pt[2])
+    lowest_point = all_points_sorted_by_ele[0]
+    highest_point = all_points_sorted_by_ele[-1]
+
     # Structure the data into a valid GeoJSON LineString
     geojson_data = {
         "type": "FeatureCollection",
@@ -24,6 +30,8 @@ def export_geojson(filename, line_string_list):
                 }
             }
         for line_string in line_string_list]
+        + [{"type": "Feature", "properties": {"name": f"Highest point ({int(highest_point[2])}m)"}, "geometry": {"type": "Point", "coordinates": highest_point}}]
+        + [{"type": "Feature", "properties": {"name": f"Lowest point ({int(lowest_point[2])}m)"}, "geometry": {"type": "Point", "coordinates": lowest_point}}]
     }
 
     with open(filename, "w", encoding="utf-8") as f:
