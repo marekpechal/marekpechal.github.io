@@ -30,7 +30,7 @@ routes:
     map_filename: map_route_I
   - heading_en: To the Emme valley (Emmental)
     heading_cz: Do údolí řeky Emme (Emmental)
-    length: 87.0
+    length: 110.0
     places:
     - name: Zurich
     - name: Birmensdorf
@@ -38,6 +38,7 @@ routes:
     - name: Cham
     - name: Ebikon
     - name: Wolhusen
+    - name: Schüpfheim
     description_en: Around Uetliberg from the north via Birmensdorf, then southward via Bonstetten to Affoltern am Albis and further towards the Lorze and following it to Cham at lake Zug. Hugging the lake for a bit, then turning south-west to Meierskappel and following the ridge before descending to Ebikon in the Reuss valley. Passing through the urban area around Emmen to continue upstream along the Kleine Emme to Werthenstein and Wolhusen.
     description_cz: Kolem Uetlibergu ze severu přes Birmensdorf, pak na jih přes Bonstetten do Affolternu am Albis a dál k řece Lorze a podél ní do města Cham u Zugského jezera. Nejdříve chvíli jdu podél břehu jezera, pak se obracím na jihozápad do vesnice Meierskappel a po hřebeni, než pak sejdu do Ebikonu v údolí řeky Reuss. Procházím zastavěným územím kolem města Emmen a pokračuji proti proudu řeky Kleine Emme do Werthensteinu a Wolhusenu.
     map_filename: map_route_Emme
@@ -1345,3 +1346,10 @@ hikes:
       row_span: 1
       description_en: Sunset seen from the train on the way home between Davos and Landquart.
       description_cz: Západ slunce z vlaku po cestě domů mezi Davosem a Landquartem.
+  - date: "22.08.2026"
+    length: 23.0
+    elevation_gain: 1054
+    elevation_loss: 904
+    from: Wolhusen
+    to: Schüpfheim
+    rating: 3
