@@ -1353,3 +1353,34 @@ hikes:
     from: Wolhusen
     to: Schüpfheim
     rating: 3
+    images:
+    - click_url: https://flic.kr/p/2swFrx5
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55481158662_ded962fb8c_b.jpg
+      row_span: 1
+      description_en: View from one of the hills between the towns of Wolhusen and Romoos. On the right is a farm through which I confidently strolled in the false belief that the road is a public hiking path. Luckily, the farmer was friendly and did not mind too much.
+      description_cz: Výhled z jednoho z kopců mezi městy Wolhusen a Romoos. Vpravo je vidět statek, přes který jsem směle zamířil v mylném přesvědčení, že tudy vede turistická stezka. Naštěstí byl místní farmář přátelský a moc mu to nevadilo.
+    - click_url: https://flic.kr/p/2swLwBs
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55482151296_98af5768a3_b.jpg
+      row_span: 1
+      description_en: Such pretty resting spots with benches were really plentiful on this hike, which I really liked - especially towards the end as I was getting tired.
+      description_cz: Takovýchto odpočinkových míst s lavičkami bylo na dnešní túře plno, což se mi velmi zamlouvalo - zvlášť ke konci, kdy se začala dostavovat únava.
+    - click_url: https://flic.kr/p/2swFrwi
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55481158617_3e5a4e640c_b.jpg
+      row_span: 1
+      description_en: The sun is about to set but I am just a short descent away from the village of Hasle (in the valley on the left) from which I will follow the river for just five more kilometers. The prominent sign adorning this pretty view marks a high pressure gas pipeline :).
+      description_cz: Slunce už skoro zachází, ale mně už zbývá jen krátký sestup do vesnice Hasle (v údolí vlevo), odkud půjdu jen asi pět dalších kilometrů podél řeky. Ta výrazná cedule zdobící tento krásný výhled značí vysokotlaký plynovod :).
+    - click_url: https://flic.kr/p/2swNx2F
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55482542925_2195d583f2_b.jpg
+      row_span: 1
+      description_en: View into the valey of the Kleine Emme river.
+      description_cz: Výhled do údolí řeky Kleine Emme.
+    - click_url: https://flic.kr/p/2swLPqT
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55482207871_bd44fb5208_b.jpg
+      row_span: 1
+      description_en: Here trains a <a href="https://en.wikipedia.org/wiki/Schwingen" target="_blank">Swiss wrestling (Schwingen)</a> champion from 2022 Joel Wicki.
+      description_cz: Tady trénuje šampion ve <a href="https://cs.wikipedia.org/wiki/Schwingen" target="_blank">švýcarském zápasu "Schwingen"</a> z roku 2022 Joel Wicki.
