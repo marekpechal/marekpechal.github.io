@@ -30,7 +30,7 @@ routes:
     map_filename: map_route_I
   - heading_en: To the Emme valley (Emmental)
     heading_cz: Do údolí řeky Emme (Emmental)
-    length: 110.0
+    length: 137.8
     places:
     - name: Zurich
     - name: Birmensdorf
@@ -39,8 +39,9 @@ routes:
     - name: Ebikon
     - name: Wolhusen
     - name: Schüpfheim
-    description_en: Around Uetliberg from the north via Birmensdorf, then southward via Bonstetten to Affoltern am Albis and further towards the Lorze and following it to Cham at lake Zug. Hugging the lake for a bit, then turning south-west to Meierskappel and following the ridge before descending to Ebikon in the Reuss valley. Passing through the urban area around Emmen to continue upstream along the Kleine Emme to Werthenstein and Wolhusen.
-    description_cz: Kolem Uetlibergu ze severu přes Birmensdorf, pak na jih přes Bonstetten do Affolternu am Albis a dál k řece Lorze a podél ní do města Cham u Zugského jezera. Nejdříve chvíli jdu podél břehu jezera, pak se obracím na jihozápad do vesnice Meierskappel a po hřebeni, než pak sejdu do Ebikonu v údolí řeky Reuss. Procházím zastavěným územím kolem města Emmen a pokračuji proti proudu řeky Kleine Emme do Werthensteinu a Wolhusenu.
+    - name: Trubschachen
+    description_en: Around Uetliberg from the north via Birmensdorf, then southward via Bonstetten to Affoltern am Albis and further towards the Lorze and following it to Cham at lake Zug. Hugging the lake for a bit, then turning south-west to Meierskappel and following the ridge before descending to Ebikon in the Reuss valley. Passing through the urban area around Emmen to continue upstream along the Kleine Emme to Werthenstein and Wolhusen, then over the hills to Schüpfheim and over Napf to Trubschachen.
+    description_cz: Kolem Uetlibergu ze severu přes Birmensdorf, pak na jih přes Bonstetten do Affolternu am Albis a dál k řece Lorze a podél ní do města Cham u Zugského jezera. Nejdříve chvíli jdu podél břehu jezera, pak se obracím na jihozápad do vesnice Meierskappel a po hřebeni, než pak sejdu do Ebikonu v údolí řeky Reuss. Procházím zastavěným územím kolem města Emmen a pokračuji proti proudu řeky Kleine Emme do Werthensteinu a Wolhusenu, pak přes kopce to Schüpfheimu a přes vrchol Napf do Trubschachenu.
     map_filename: map_route_Emme
   - heading_en: To the French border
     heading_cz: K francouzské hranici
@@ -1408,3 +1409,22 @@ hikes:
       row_span: 1
       description_en: Here trains a <a href="https://en.wikipedia.org/wiki/Schwingen" target="_blank">Swiss wrestling (Schwingen)</a> champion from 2022 Joel Wicki.
       description_cz: Tady trénuje šampion ve <a href="https://cs.wikipedia.org/wiki/Schwingen" target="_blank">švýcarském zápasu "Schwingen"</a> z roku 2022 Joel Wicki.
+  - date: "29.08.2026"
+    length: 27.8
+    elevation_gain: 899
+    elevation_loss: 886
+    from: Schüpfheim
+    to: Trubschachen
+    rating: 2
+    description_en: |
+      Following up on last week's hike around Entlebuch, I decide to visit Napf, the highest mountain (although with its about 1400m amsl, it might count as a hill under Swiss standards) of the region between Luzern and Bern.
+
+      While Switzerland's railway network is very dense, this area seems to be an exception in that just getting to Napf from the nearest train station and then walking to another station necessitates a rather long hike. It takes me about 6.5 hours in the end, making it stand out among my half-day Saturday hikes.
+
+      The views on the way up are pretty and like last week, there are many benches along the way. The walk down is a bit worse. After getting into the valley at Fankhaus, I still have about 9 km to go to the train station in Trubschachen and the path mostly follows a bone dry creek (this year's heat waves have really taken a toll) and afterwards, the hiking path disappears completely and I need to follow a main road, at times without a sidewalk. It surprises me that villages in the same valley do not have a hiking trail connecting them (to be fair, there actually is one but it doesn't follow the valley but instead winds it's way quite high up along the slopes and is quite a bit longer, so I opted out of using it).
+    description_cz: |
+      Po túře v oblasti Entlebuchu z předchozího týdne  jsem se rozhodl pokračovat cestou na Napf - nejvyšší horu (i když s nadmořskou výškou 1400m je to možná na švýcarské poměry jen kopec) regionu mezi Lucernem a Bernem.
+
+      Ačkoliv je švýcarská železniční síť velmi hustá, tato oblast se zdá být výjimkou. Jen dojít z nejbližší železniční stanice na Napf a pak do jiné stanice vyžaduje poměrně dlouhou vycházku. Nakonec mi to trvalo 6.5 hodiny, což je ve srovnání s mými ostatními půldenními výlety neobvyklé.
+
+      Výhledy na cestě nahoru jsou pěkné a stejně jako minulý týden je podél řada příhodných laviček. Sestup dolů je trochu horší. Po příchodu do údolí ve vesnici Fankhaus mi ještě stále zbývá asi 9 km k vlakové stanici v Trubschachenu a většina cesty jde podél na troud vyschlého potoka (letošní vlna veder se tady pěkně podepsala) a nakonec stezka mizí úplně a musím jít podél hlavní cesty, místy bez chodníku. Překvapuje mě, že vesnice v témže údolí nejsou spolu spojené turistickou stezkou (abych nelhal, jedna tady je, ale nejde přímo údolím a naopak se klikatí dost vysoko ve svahu nad ním a je celkově delší, tak ji nakonec zamítám).
