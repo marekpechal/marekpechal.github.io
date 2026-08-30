@@ -16,7 +16,23 @@ permalink: /hiking/cz/
     Statistika
     </span>
   </summary>
+
+  {% assign grand_total_dist = 0.0 %}
+  {% for hike in site.data.hiking.hikes %}
+    {% assign grand_total_dist = grand_total_dist | plus: hike.length %}
+  {% endfor %}
+
+  {% assign grand_total_ele = 0.0 %}
+  {% for hike in site.data.hiking.hikes %}
+    {% assign grand_total_ele = grand_total_ele | plus: hike.elevation_gain %}
+  {% endfor %}
+
   <img src="{{ '/assets/images/hiking_statistics_individual_cz.png' | relative_url }}" alt="Hiking statistics" style="max-width: 100%; height: auto; display: block; margin: 1rem 0;">
+
+  <h3>
+  Celková vzdálenost: {{ grand_total_dist }} km<br>
+  Celkové stoupání: {{ grand_total_ele }} m</h3>
+
   <img src="{{ '/assets/images/hiking_statistics_cumulative_cz.png' | relative_url }}" alt="Hiking statistics" style="max-width: 100%; height: auto; display: block; margin: 1rem 0;">
 </details>
 
