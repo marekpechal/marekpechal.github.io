@@ -92,6 +92,7 @@ routes:
     - name: Goldau
     - name: Luzern
     - name: Sarnen
+    - name: Lungern
     description_en: Leaving Zurich along the Sihl valley, then crossing over Albishorn to Baar. From there following the Lorze upstream and crossing over the hills from Neuägeri back towards lake Zug. Walking around the southern end of the lake with a detour over the Gnipen summit and Goldau. Following the slopes of Rigi to Seebodenalp and then down to lake Luzern at Küssnacht. From there, along the ridge above the lake to the city of Luzern. Southwards between Pilatus and the lake, over Ränggpass to the Sarneraa valley.
     description_cz: Vyrážím z Curychu údolím Sihlu, pak přes Albishorn do Baaru. Odtud pak proti proudu řeky Lorze přes kopce z Neuägeri zpátky k Zugskému jezeru. Obcházím jižní cíp jezera se zacházkou přes vrchol Gnipen a město Goldau. Po úbočí Rigi na Seebodenalp a pak dolů k Lucernskému jezeru v Küssnachtu. Odtud pak podél horského hřbetu nad jezerem do Lucernu. Na jih mezi horou Pilatus a jezerem, přes Ränggpass do údolí řeky Sarneraa.
     map_filename: map_route_Sarnersee
@@ -1465,3 +1466,10 @@ hikes:
       row_span: 2
       description_en: River-bed of the Fankhusbach stream. Shouldn't there be some water here?
       description_cz: Koryto potoka Fankhusbach. Neměla by tady někde být voda?
+  - date: "06.09.2026"
+    length: 23.6
+    elevation_gain: 640
+    elevation_loss: 361
+    from: Sarnen
+    to: Lungern
+    rating: 2
