@@ -1473,3 +1473,28 @@ hikes:
     from: Sarnen
     to: Lungern
     rating: 2
+    images:
+    - click_url: https://flic.kr/p/2szoxwQ
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55511811416_d19b13ac3e_b.jpg
+      row_span: 1
+      description_en: Map of today hike's area on a train table.
+      description_cz: Mapa okolí dnešní túry na stolku ve vlaku.
+    - click_url: https://flic.kr/p/2szp6u9
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55511918908_bb26e6e250_b.jpg
+      row_span: 1
+      description_en: View from the slopes above Sarnersee towards Giswil, Kaiserstuhl and Brünig pass.
+      description_cz: Pohled ze svahu nad jezerem Sarnersee směrem na Giswil, Kaiserstuhl a průsmyk Brünig.
+    - click_url: https://flic.kr/p/2szinuX
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55510802107_e16edd020c_b.jpg
+      row_span: 1
+      description_en: View from Kaiserstuhl over Lungerersee.
+      description_cz: Pohled z Kaiserstuhlu přes Lungerersee.
+    - click_url: https://flic.kr/p/2szpne1
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55511971854_5a0e5fdeb1_b.jpg
+      row_span: 1
+      description_en: Church in Lungern in the last bits of evening light.
+      description_cz: Kostel v Lungern v posledních zbytcích večerního světla.
