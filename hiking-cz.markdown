@@ -89,7 +89,7 @@ permalink: /hiking/cz/
 
     <div class="gallery-item span-cols-{{ cols }} span-rows-{{ rows }}">
       <a href="{{ image.click_url }}" target="_blank" rel="noopener" class="image-link">
-        <img src="{{ image.image_url }}" alt="Hiking photo">
+        <img src="{{ image.image_url }}" alt="Hiking photo" loading="lazy">
       </a>
       <div class="gallery-caption">
         {{ image.description_cz }}
