@@ -1506,3 +1506,46 @@ hikes:
     from: Lungern
     to: Meiringen
     rating: 3
+    images:
+    - click_url: https://flic.kr/p/2sAzkx1
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55525233786_b331e7741f_b.jpg
+      row_span: 1
+      description_en: View of Brünig pass from the way up to Gibel.
+      description_cz: Pohled na průsmyk Brünig z cesty na horu Gibel.
+    - click_url: https://flic.kr/p/2sAu7Wa
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55524215837_ed217ca163_c.jpg
+      row_span: 2
+      description_en: Hiking post at the summit of Gibel.
+      description_cz: Rozcestník na vrcholu Gibel.
+    - click_url: https://flic.kr/p/2sAA7Ug
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55525386399_7c0b5e2549_b.jpg
+      row_span: 1
+      description_en: Lakes Brienzersee and Thunersee (in the distance) around Interlaken.
+      description_cz: Jezera Brienzersee a Thunersee (v pozadí) kolem Interlakenu.
+    - click_url: https://flic.kr/p/2sAuoM3
+      col_span: 2
+      image_url: https://live.staticflickr.com/65535/55524269132_1ff32064c6_h.jpg
+      row_span: 1
+      description_en: Panoramic view from Gibel towards north-east, south-east and south-west.
+      description_cz: Panoramatický pohled z vrcholu Gibel na severovýchod, jihovýchod a jihozápad.
+    - click_url: https://flic.kr/p/2sAzkto
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55525233576_7c8aebf4b9_z.jpg
+      row_span: 2
+      description_en: A tasty snack collected below the summit of Gibel.
+      description_cz: Chutná svačinka nasbíraná pod vrcholem Gibel.
+    - click_url: https://flic.kr/p/2sAu7RW
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55524215592_71260532f6_b.jpg
+      row_span: 1
+      description_en: Last evening sun on the peaks around Rosenlaui glacier.
+      description_cz: Zbytky večerního slunce na vrcholech kolem ledovce Rosenlaui.
+    - click_url: https://flic.kr/p/2sAzkpa
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55525233331_436102d935_b.jpg
+      row_span: 1
+      description_en: Sunset behind the mountains above Brienzersee.
+      description_cz: Západ slunce za horami nad jezerem Brienzersee.
