@@ -1,15 +1,16 @@
 routes:
   - heading_en: To the German border
     heading_cz: K německé hranici
-    length: 81.2
+    length: 106.1
     places:
     - name: Zurich
     - name: Otelfingen
     - name: Kaiserstuhl
     - name: Rheinau
     - name: Schaffhausen
-    description_en: Starting off via Höngg to the Furttal, then crossing Lägern and Wehntal to enter Eggwald and reach the Rhine and the German border at Kaiserstuhl. Afterwards, following the Rhine upstream, cutting across the bend at Buchberg, crossing back to the left bank and continuing there to Rheinau and to Schaffhausen past the Rhine Falls.
-    description_cz: Vyrážím přes Höngg do údolí Furttal, pak přes horský hřeben Lägern a údolí Wehntal do lesa Eggwald. Dostávám se k Rýnu a německé hranici v Kaiserstuhlu. Pak pokračuji proti proudu Rýna, zkracuji si to přes záhyb řeky u Buchbergu, přecházím zpět na levý břeh a tam pokračuji do Rheinau a pak do Schaffhausenu kolem Rýnských vodopádů.
+    - name: Bargen
+    description_en: Starting off via Höngg to the Furttal, then crossing Lägern and Wehntal to enter Eggwald and reach the Rhine and the German border at Kaiserstuhl. Afterwards, following the Rhine upstream, cutting across the bend at Buchberg, crossing back to the left bank and continuing there to Rheinau and to Schaffhausen past the Rhine Falls. I then hike to the northern-most point of Switzerland north of Schaffhausen.
+    description_cz: Vyrážím přes Höngg do údolí Furttal, pak přes horský hřeben Lägern a údolí Wehntal do lesa Eggwald. Dostávám se k Rýnu a německé hranici v Kaiserstuhlu. Pak pokračuji proti proudu Rýna, zkracuji si to přes záhyb řeky u Buchbergu, přecházím zpět na levý břeh a tam pokračuji do Rheinau a pak do Schaffhausenu kolem Rýnských vodopádů. Pak vyrážím do nejsevernějšího bodu Švýcarska na sever of Schaffhausenu.
     map_filename: map_route_D
   - heading_en: To the Italian border
     heading_cz: K italské hranici
@@ -1549,3 +1550,10 @@ hikes:
       row_span: 1
       description_en: Sunset behind the mountains above Brienzersee.
       description_cz: Západ slunce za horami nad jezerem Brienzersee.
+  - date: "19.09.2026"
+    length: 24.9
+    elevation_gain: 638
+    elevation_loss: 446
+    from: Schaffhausen
+    to: Bargen
+    rating: 2
