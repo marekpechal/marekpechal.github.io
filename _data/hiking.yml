@@ -1557,3 +1557,28 @@ hikes:
     from: Schaffhausen
     to: Bargen
     rating: 2
+    images:
+    - click_url: https://flic.kr/p/2sCAQ2Z
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55548157763_2c0ee47dc2_z.jpg
+      row_span: 2
+      description_en: Border crossing from Switzerland to Germany in a forest near the hill Hagen.
+      description_cz: Hranice mezi Švýcarskem a Německem v lese u kopce Hagen.
+    - click_url: https://flic.kr/p/2sCAQ1S
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55548157698_ab7f1d9367_b.jpg
+      row_span: 1
+      description_en: View into Switzerland from its northern-most point "Schwarzer Stein".
+      description_cz: Výhled do Švýcarska z jeho nejsevernějšího bodu "Schwarzer Stein".
+    - click_url: https://flic.kr/p/2sCB93Q
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55548218364_4ff37bb3ca_z.jpg
+      row_span: 2
+      description_en: Boundary marker at the northern-most point of Switzerland.
+      description_cz: Hraniční kámen v nejsevernějším bodě Švýcarska.
+    - click_url: https://flic.kr/p/2sCAi13
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55548053366_fa94c8e0e0_b.jpg
+      row_span: 1
+      description_en: Information sign at the northern-most point of Switzerland.
+      description_cz: Informační tabule v nejsevernějším bodě Švýcarska.
