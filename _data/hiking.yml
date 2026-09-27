@@ -98,6 +98,17 @@ routes:
     description_en: Leaving Zurich along the Sihl valley, then crossing over Albishorn to Baar. From there following the Lorze upstream and crossing over the hills from Neuägeri back towards lake Zug. Walking around the southern end of the lake with a detour over the Gnipen summit and Goldau. Following the slopes of Rigi to Seebodenalp and then down to lake Luzern at Küssnacht. From there, along the ridge above the lake to the city of Luzern. Southwards between Pilatus and the lake, over Ränggpass to the Sarneraa valley and then over Gibel to Meiringen.
     description_cz: Vyrážím z Curychu údolím Sihlu, pak přes Albishorn do Baaru. Odtud pak proti proudu řeky Lorze přes kopce z Neuägeri zpátky k Zugskému jezeru. Obcházím jižní cíp jezera se zacházkou přes vrchol Gnipen a město Goldau. Po úbočí Rigi na Seebodenalp a pak dolů k Lucernskému jezeru v Küssnachtu. Odtud pak podél horského hřbetu nad jezerem do Lucernu. Na jih mezi horou Pilatus a jezerem, přes Ränggpass do údolí řeky Sarneraa a pak přes horu Gibel do Meiringenu.
     map_filename: map_route_Sarnersee
+  - heading_en: Various unsorted hikes
+    heading_cz: Různé nesetříděné túry
+    length:
+    places:
+    - name: Tramelan
+    - name: Saint Imier
+    - name: Chasseral
+    description_en:
+    description_cz:
+    map_filename: map_route_misc
+
 
 hikes:
   - date: "03.02.2024"
@@ -607,6 +618,13 @@ hikes:
       row_span: 1
       description_en: The village of Oltingen seen from a mountain ridge while descending from the Schafmatt pass to the village of Anvil.
       description_cz: Vesnice Oltingen viděná z hřebenu při sestupu z průsmyku Schafmatt do vesnice Anvil.
+  - date: "12.10.2025"
+    length: 12.3
+    elevation_gain: 828
+    elevation_loss: 731
+    from: Saint Imier
+    to: Chasseral
+    rating: 3
   - date: "18.10.2025"
     length: 24.9
     elevation_gain: 907
@@ -1582,3 +1600,14 @@ hikes:
       row_span: 1
       description_en: Information sign at the northern-most point of Switzerland.
       description_cz: Informační tabule v nejsevernějším bodě Švýcarska.
+  - date: "26.09.2026"
+    length: 16.5
+    elevation_gain: 471
+    elevation_loss: 557
+    from: Tramelan
+    to: Saint Imier
+    rating: 2
+    description_en: |
+      Meaning to continue my hikes in the Jura mountains, I head towards Court. The Swiss railways have a construction going on in that area, with replacement buses running instead of trains from Sonceboz-Sombeval. Rather stupidly, I don't pay attention and assume the only bus waiting in front of the train station would be the replacement bus, without actually checking it. Needless to say, it ends up going in the opposite direction than I need, towards Tramelan. So instead of the original plan, I cross over the mountain Montagne du Droit into the next valley, where my path connects with a hike from Saint Imier to the summit of Chasseral which I did last year with friends. On the way over the hill, I pass through quite an impressive wind power farm, with turbines up to 3 megawatts and 150 meters tall.
+    description_cz: |
+      Mám v úmyslu pokračovat v túrách v pohoří Jura, a tak vyrážím do vesnice Court. Švýcarské dráhy mají v oblasti výluku s náhradními autobusy ze stanice Sonceboz-Sombeval. Trochu hloupě nedávám pozor a předpokládám, že jediný autobus před stanicí je právě ten náhradní, aniž bych si to ověřil. Samozřejmě pak vyráží opačným směrem, než potřebuji, do města Tramelan. A tak místo původního plánu přecházím přes vrchol Montagne du Droit do vedlejšího údolí, kde má cesta naváže na krátkou túru z města Sain Imier na horu Chasseral, kterou jsem podnikl s kamarády minulý rok. Po cestě přes kopec procházím docela působivou větrnou elektrárnou s až třímegawattovými větrníky vysokými 150 metrů.
