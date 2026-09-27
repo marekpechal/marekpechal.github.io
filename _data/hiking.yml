@@ -625,6 +625,37 @@ hikes:
     from: Saint Imier
     to: Chasseral
     rating: 3
+    images:
+    - click_url: https://flic.kr/p/2sD6cuF
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55553693091_c466e07728_z.jpg
+      row_span: 2
+      description_en: Beautiful autumn colors in the Combe Grède gorge leading steeply from Saint Imier to Chasseral.
+      description_cz: Krásné podzimní barvy v soutěsce Combe Grède vedoucí strmě z města Saint Imier na horu Chasseral.
+    - click_url: https://flic.kr/p/2sD73yq
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55553858144_9e4b342a53_b.jpg
+      row_span: 1
+      description_en: Walls of the Combe Grède gorge.
+      description_cz: Stěny soutěsky Combe Grède.
+    - click_url: https://flic.kr/p/2sD8boY
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55554079620_fcefc0e7f3_z.jpg
+      row_span: 2
+      description_en: Walls of the Combe Grède gorge.
+      description_cz: Stěny soutěsky Combe Grède.
+    - click_url: https://flic.kr/p/2sCZX7o
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55552669142_cbfbebc1a4_b.jpg
+      row_span: 1
+      description_en: View from the plateau between the Combe Grède gorge and the summit of Chasseral back towards Saint Imier and the wind power plant Juvent on the opposite ridge.
+      description_cz: Výhled z plošiny mezi soutěskou Combe Grède a vrcholem Chasseral zpět na Saint Imier a na větrnou elektrárnu Juvent na protějším hřebeni.
+    - click_url: https://flic.kr/p/2sCZX42
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55552668947_2c1ea5844d_b.jpg
+      row_span: 1
+      description_en: A sea of clouds covering the valley between Biel, Bern, Fribourg and Neuchatel on the southern side of the Chasseral ridge.
+      description_cz: Moře mraků pokrývající údolí mezi Bielem, Bernem, Fribourgem a Neuchatelem na jižní straně chasseralského hřebenu.
   - date: "18.10.2025"
     length: 24.9
     elevation_gain: 907
@@ -1611,3 +1642,22 @@ hikes:
       Meaning to continue my hikes in the Jura mountains, I head towards Court. The Swiss railways have a construction going on in that area, with replacement buses running instead of trains from Sonceboz-Sombeval. Rather stupidly, I don't pay attention and assume the only bus waiting in front of the train station would be the replacement bus, without actually checking it. Needless to say, it ends up going in the opposite direction than I need, towards Tramelan. So instead of the original plan, I cross over the mountain Montagne du Droit into the next valley, where my path connects with a hike from Saint Imier to the summit of Chasseral which I did last year with friends. On the way over the hill, I pass through quite an impressive wind power farm, with turbines up to 3 megawatts and 150 meters tall.
     description_cz: |
       Mám v úmyslu pokračovat v túrách v pohoří Jura, a tak vyrážím do vesnice Court. Švýcarské dráhy mají v oblasti výluku s náhradními autobusy ze stanice Sonceboz-Sombeval. Trochu hloupě nedávám pozor a předpokládám, že jediný autobus před stanicí je právě ten náhradní, aniž bych si to ověřil. Samozřejmě pak vyráží opačným směrem, než potřebuji, do města Tramelan. A tak místo původního plánu přecházím přes vrchol Montagne du Droit do vedlejšího údolí, kde má cesta naváže na krátkou túru z města Sain Imier na horu Chasseral, kterou jsem podnikl s kamarády minulý rok. Po cestě přes kopec procházím docela působivou větrnou elektrárnou s až třímegawattovými větrníky vysokými 150 metrů.
+    images:
+    - click_url: https://flic.kr/p/2sD6cqC
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55553692856_e7a9571b61_b.jpg
+      row_span: 1
+      description_en: One of the turbines of the wind power plant Juvent on top of Montagne du Droit.
+      description_cz: Jedna z turbín větrné elektrárny Juvent na vrcholu Montagne du Droit.
+    - click_url: https://flic.kr/p/2sD6J81
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55553796118_e42d756719_b.jpg
+      row_span: 1
+      description_en: Information sign about the wind power plant Juvent.
+      description_cz: Informační tabule o větrné elektrárně Juvent.
+    - click_url: https://flic.kr/p/2sD73z2
+      col_span: 1
+      image_url: https://live.staticflickr.com/65535/55553858179_1f7e69c2d9_b.jpg
+      row_span: 1
+      description_en: View of the Combe Grède gorge and the Chasseral mountain on the opposite side of the valley behind Saint Imier.
+      description_cz: Výhled na soutěsku Combe Grède a vrchol Chasseral na opačné straně údolí za městem Saint Imier.
