@@ -58,6 +58,9 @@ routes:
     - name: Laufen
     - name: Delemont
     - name: Court
+    - name: Tramelan
+    - name: Saint Imier
+    - name: Chasseral
     description_en: Crossing the Limmat valley to Schlieren, Rudolfstetten and Bremgarten, then over the forested hills west of the town to Wohlen, around the hill Eichberg to Seon, then over another ridge to Suhr and Aarau. Crossing the Aare and up to Schafmatt pass, then down the northern slopes to Rothenfluh and following the valley to Gelterkinden. A detour via the hills to the north to Lausen and Liestal, then leaving the valley up to Nuglar and Gempen. Then down again to the Birs valley and to the French border at Flüh. Turning south-west to Metzerlen and then south over the Challpass to Laufen. Crossing the Birs once again, up to Karlisberg and then following the ridge westward before descending to Delemont. From here I cross the next ridge in the south to Moutier and then through along the Rue des Gorges to the town of Court.
     description_cz: Přecházím údolí Limmatu do Schlierenu, Rudolfstettenu a Bremgartenu, pak přes zalesněné kopce na západ od města do Wohlenu, kolem kopce Eichbergu do Seonu, pak přes další hřeben do Suhru a Aarau. Přecházím Aare a jdu nahoru do průsmyku Schafmatt, pak dolů po severních svazích do Rothenfluhu a údolím do Gelterkindenu. Zacházkou přes kopce na sever do Lausenu a Liestalu, pak opouštím údolí a jdu nahoru do vesnic Nuglar a Gempen. Poté opět dolů do údolí řeky Birs a k francouzským hranicím ve vsi Flüh. Stáčím se na severozápad do Metzerlenu a pak na jih přes průsmyk Challpass do Laufenu. Tam znovu přecházím přes Birs, nahoru na Karlisberg a po hřebeni na západ než sestoupím do Delemontu. Odtud pak přecházím přes další hřeben na jih do Moutier a pak soutěskou podél Rue des Gorges do obce Court.
     map_filename: map_route_F
@@ -98,17 +101,6 @@ routes:
     description_en: Leaving Zurich along the Sihl valley, then crossing over Albishorn to Baar. From there following the Lorze upstream and crossing over the hills from Neuägeri back towards lake Zug. Walking around the southern end of the lake with a detour over the Gnipen summit and Goldau. Following the slopes of Rigi to Seebodenalp and then down to lake Luzern at Küssnacht. From there, along the ridge above the lake to the city of Luzern. Southwards between Pilatus and the lake, over Ränggpass to the Sarneraa valley and then over Gibel to Meiringen.
     description_cz: Vyrážím z Curychu údolím Sihlu, pak přes Albishorn do Baaru. Odtud pak proti proudu řeky Lorze přes kopce z Neuägeri zpátky k Zugskému jezeru. Obcházím jižní cíp jezera se zacházkou přes vrchol Gnipen a město Goldau. Po úbočí Rigi na Seebodenalp a pak dolů k Lucernskému jezeru v Küssnachtu. Odtud pak podél horského hřbetu nad jezerem do Lucernu. Na jih mezi horou Pilatus a jezerem, přes Ränggpass do údolí řeky Sarneraa a pak přes horu Gibel do Meiringenu.
     map_filename: map_route_Sarnersee
-  - heading_en: Various unsorted hikes
-    heading_cz: Různé nesetříděné túry
-    length:
-    places:
-    - name: Tramelan
-    - name: Saint Imier
-    - name: Chasseral
-    description_en:
-    description_cz:
-    map_filename: map_route_misc
-
 
 hikes:
   - date: "03.02.2024"
@@ -1661,3 +1653,10 @@ hikes:
       row_span: 1
       description_en: View of the Combe Grède gorge and the Chasseral mountain on the opposite side of the valley behind Saint Imier.
       description_cz: Výhled na soutěsku Combe Grède a vrchol Chasseral na opačné straně údolí za městem Saint Imier.
+  - date: "03.10.2026"
+    length: 22.4
+    elevation_gain: 457
+    elevation_loss: 248
+    from: Court
+    to: Tramelan
+    rating: 1
